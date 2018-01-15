@@ -16,5 +16,6 @@ def count(path_recommend):
                     for k2,v2 in i.items():
                         full_count[k2]=full_count[k2]+len(v2)
             line=f.readline()
-
+    with open(path_recommend+'recommend_count','a',encoding='utf-8') as f2:
+        f2.write('增加双向关系后:'+n+js.dumps(full_count))
     print(n, full_count)

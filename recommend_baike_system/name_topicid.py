@@ -156,5 +156,5 @@ def name_oid(path,path_res,path_recommend):
     data_all = js.dumps(count_for_all, ensure_ascii=False)
     data_id = js.dumps(count_for_id, ensure_ascii=False)
     with open(path_recommend+'recommend_count', 'a', encoding='utf-8' ) as ff:
-        ff.write(data_all+'\n')
-        ff.write(data_id+'\n')
+        ff.write('一共有数据：'+data_all+'\n')
+        ff.write('匹配到id的：'+data_id+'\n')
