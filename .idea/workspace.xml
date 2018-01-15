@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f62959-53ad-4494-8188-4f103400e1b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" afterPath="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/analysis&amp;notwritehtml.py" afterPath="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/analysis.py" afterPath="$PROJECT_DIR$/recommend_baike_system/analysis.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/count.py" afterPath="$PROJECT_DIR$/recommend_baike_system/count.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/mkdir.py" afterPath="$PROJECT_DIR$/recommend_baike_system/mkdir.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/name_topicid.py" afterPath="$PROJECT_DIR$/recommend_baike_system/name_topicid.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/recommend&amp;notwritehtml.py" afterPath="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/test.py" afterPath="$PROJECT_DIR$/recommend_baike_system/test.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" afterPath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/log" afterPath="$PROJECT_DIR$/recommend_baike_system/log" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/res_container/res15" afterPath="$PROJECT_DIR$/recommend_baike_system/res_container/res15" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />

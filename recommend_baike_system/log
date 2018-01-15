@@ -60,3 +60,137 @@ movie_url load 失败：郭晓东_2>----->https://baike.baidu.com/item/%E6%96%B0
 show_url load 失败：冲田杏梨_2>----->https://baike.baidu.com/item/%E6%9D%8E%E5%85%AC%E4%B9%90
 错误url : https://baike.baidu.com/item/%E9%BA%BB%E7%94%9F%E5%B8%8C>----->The read operation timed out
 show_url load 失败：冲田杏梨_3>----->https://baike.baidu.com/item/%E9%BA%BB%E7%94%9F%E5%B8%8C
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：银赫_62>----->https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350
+错误url : https://baike.baidu.com/item/%E4%B8%9C%E6%B5%B7/2533366>----->The read operation timed out
+show_url load 失败：银赫_129>----->https://baike.baidu.com/item/%E4%B8%9C%E6%B5%B7/2533366
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350>----->The read operation timed out
+show_url load 失败：银赫_133>----->https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350
+错误url : https://baike.baidu.com/item/%E5%AF%87%E4%B8%96%E5%8B%8B>----->The read operation timed out
+明星url_load失败:寇世勋:https://baike.baidu.com/item/%E5%AF%87%E4%B8%96%E5%8B%8B
+错误url : https://baike.baidu.com/item/Dream%20Team>----->The read operation timed out
+show_url load 失败：金钟国_116>----->https://baike.baidu.com/item/Dream%20Team
+错误url : https://baike.baidu.com/item/%E7%B1%B3%E5%8B%92>----->The read operation timed out
+明星url_load失败:米勒:https://baike.baidu.com/item/%E7%B1%B3%E5%8B%92
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E4%BC%A6%E7%A1%95%E9%92%9F%E4%B8%BD%E7%BC%87>----->The read operation timed out
+明星url_load失败:张伦硕钟丽缇:https://baike.baidu.com/item/%E5%BC%A0%E4%BC%A6%E7%A1%95%E9%92%9F%E4%B8%BD%E7%BC%87
+错误url : https://baike.baidu.com/item/%E7%94%B7%E4%BA%BA%E5%B8%AE/10630131>----->The read operation timed out
+movie_url load 失败：孙红雷_7>----->https://baike.baidu.com/item/%E7%94%B7%E4%BA%BA%E5%B8%AE/10630131
+错误url : https://baike.baidu.com/item/IRIS/31766>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：李秉宪_3>----->https://baike.baidu.com/item/IRIS/31766
+错误url : https://baike.baidu.com/item/%E9%B8%A1%E8%9B%8B%E7%A2%B0%E7%9F%B3%E5%A4%B4/19691224>----->The read operation timed out
+show_url load 失败：赵粤_16>----->https://baike.baidu.com/item/%E9%B8%A1%E8%9B%8B%E7%A2%B0%E7%9F%B3%E5%A4%B4/19691224
+错误url : https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E5%AD%A6%E9%99%A248>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：赵粤_17>----->https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E5%AD%A6%E9%99%A248
+错误url : https://baike.baidu.com/item/%E6%99%BA%E6%97%8FGQ>----->The read operation timed out
+show_url load 失败：李子峰_8>----->https://baike.baidu.com/item/%E6%99%BA%E6%97%8FGQ
+错误url : https://baike.baidu.com/item/%E4%BC%98%E5%93%81>----->The read operation timed out
+show_url load 失败：李子峰_12>----->https://baike.baidu.com/item/%E4%BC%98%E5%93%81
+错误url : https://baike.baidu.com/item/%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：谢娜_5>----->https://baike.baidu.com/item/%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD
+错误url : https://baike.baidu.com/item/%E4%B8%83%E6%97%A5%E7%9A%84%E7%8E%8B%E5%A6%83>----->The read operation timed out
+show_url load 失败：延宇振_2>----->https://baike.baidu.com/item/%E4%B8%83%E6%97%A5%E7%9A%84%E7%8E%8B%E5%A6%83
+错误url : https://baike.baidu.com/item/%E9%87%91%E5%AD%90>----->The read operation timed out
+明星url_load失败:金子:https://baike.baidu.com/item/%E9%87%91%E5%AD%90
+错误url : https://baike.baidu.com/item/%E5%86%B0%E4%B9%8B%E4%B8%8B>----->The read operation timed out
+movie_url load 失败：黄渤_1>----->https://baike.baidu.com/item/%E5%86%B0%E4%B9%8B%E4%B8%8B
+错误url : https://baike.baidu.com/item/%E9%97%AE%E9%81%93/18702464>----->The read operation timed out
+show_url load 失败：喻恩泰_7>----->https://baike.baidu.com/item/%E9%97%AE%E9%81%93/18702464
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E4%BF%AE%E5%B9%B3>----->The read operation timed out
+明星url_load失败:李修平:https://baike.baidu.com/item/%E6%9D%8E%E4%BF%AE%E5%B9%B3
+错误url : https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E4%B8%9A%E4%B8%BB>----->The read operation timed out
+movie_url load 失败：田小洁_2>----->https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E4%B8%9A%E4%B8%BB
+错误url : https://baike.baidu.com/item/%E6%97%A5%E7%85%A7%E9%87%8D%E5%BA%86>----->The read operation timed out
+movie_url load 失败：秦昊_3>----->https://baike.baidu.com/item/%E6%97%A5%E7%85%A7%E9%87%8D%E5%BA%86
+错误url : https://baike.baidu.com/item/%E5%90%89%E4%B8%BD>----->The read operation timed out
+明星url_load失败:吉丽:https://baike.baidu.com/item/%E5%90%89%E4%B8%BD
+错误url : https://baike.baidu.com/item/%E5%90%89%E7%94%B0%E7%85%A7%E5%B9%B8>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：篠田麻里子_8>----->https://baike.baidu.com/item/%E5%90%89%E7%94%B0%E7%85%A7%E5%B9%B8
+错误url : https://baike.baidu.com/item/%E5%91%A8%E5%BD%A6%E8%BE%B0>----->The read operation timed out
+明星url_load失败:周彦辰:https://baike.baidu.com/item/%E5%91%A8%E5%BD%A6%E8%BE%B0
+错误url : https://baike.baidu.com/item/%E5%BE%90%E7%92%90>----->The read operation timed out
+明星url_load失败:徐璐:https://baike.baidu.com/item/%E5%BE%90%E7%92%90
+错误url : https://baike.baidu.com/item/%E9%87%91%E7%89%8C%E5%BE%8B%E5%B8%88/5107845>----->The read operation timed out
+movie_url load 失败：是安_2>----->https://baike.baidu.com/item/%E9%87%91%E7%89%8C%E5%BE%8B%E5%B8%88/5107845
+错误url : https://baike.baidu.com/item/%E5%9B%BD%E9%97%A8%E8%8B%B1%E9%9B%84>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：是安_3>----->https://baike.baidu.com/item/%E5%9B%BD%E9%97%A8%E8%8B%B1%E9%9B%84
+错误url : https://baike.baidu.com/item/usso>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:usso:https://baike.baidu.com/item/usso
+错误url : https://baike.baidu.com/item/%E6%98%A5%E5%A8%87%E4%B8%8E%E5%BF%97%E6%98%8E>----->The read operation timed out
+movie_url load 失败：余文乐_3>----->https://baike.baidu.com/item/%E6%98%A5%E5%A8%87%E4%B8%8E%E5%BF%97%E6%98%8E
+错误url : https://baike.baidu.com/item/IMFACT>----->The read operation timed out
+明星url_load失败:IMFACT:https://baike.baidu.com/item/IMFACT
+错误url : https://baike.baidu.com/item/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：刘嘉玲_2>----->https://baike.baidu.com/item/%E9%98%BF%E9%A3%9E%E6%AD%A3%E4%BC%A0
+错误url : https://baike.baidu.com/item/%E5%BE%90%E6%99%93%E7%92%90>----->The read operation timed out
+明星url_load失败:徐晓璐:https://baike.baidu.com/item/%E5%BE%90%E6%99%93%E7%92%90
+错误url : https://baike.baidu.com/item/%E6%89%93%E7%8B%97%E6%A3%8D>----->The read operation timed out
+movie_url load 失败：刘芊含_1>----->https://baike.baidu.com/item/%E6%89%93%E7%8B%97%E6%A3%8D
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E4%B8%9C%E9%98%B3>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:李东阳:https://baike.baidu.com/item/%E6%9D%8E%E4%B8%9C%E9%98%B3
+错误url : https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F>----->The read operation timed out
+show_url load 失败：张艺兴_1>----->https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F
+错误url : https://baike.baidu.com/item/%E4%B8%89%E5%B2%94%E5%8F%A3>----->The read operation timed out
+movie_url load 失败：郭富城_5>----->https://baike.baidu.com/item/%E4%B8%89%E5%B2%94%E5%8F%A3
+错误url : https://baike.baidu.com/item/%E5%83%8F%E6%98%A8%E5%A4%A9%E4%B8%80%E6%A0%B7GoodNight>----->The read operation timed out
+movie_url load 失败：徐智秀_2>----->https://baike.baidu.com/item/%E5%83%8F%E6%98%A8%E5%A4%A9%E4%B8%80%E6%A0%B7GoodNight
+错误url : https://baike.baidu.com/item/%E7%8B%97%E5%92%8C%E7%8B%BC%E7%9A%84%E6%97%B6%E9%97%B4>----->The read operation timed out
+movie_url load 失败：郑京浩_3>----->https://baike.baidu.com/item/%E7%8B%97%E5%92%8C%E7%8B%BC%E7%9A%84%E6%97%B6%E9%97%B4
+错误url : https://baike.baidu.com/item/%E9%BB%84%E6%96%B0%E5%BE%B7>----->The read operation timed out
+明星url_load失败:黄新德:https://baike.baidu.com/item/%E9%BB%84%E6%96%B0%E5%BE%B7
+错误url : https://baike.baidu.com/item/%E6%B3%A1%E6%B2%AB%E4%B9%8B%E5%A4%8F>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：沈建宏_1>----->https://baike.baidu.com/item/%E6%B3%A1%E6%B2%AB%E4%B9%8B%E5%A4%8F
+错误url : https://baike.baidu.com/item/%E8%AE%B8%E5%8D%87%E5%8D%8E>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:许升华:https://baike.baidu.com/item/%E8%AE%B8%E5%8D%87%E5%8D%8E
+错误url : https://baike.baidu.com/item/%E5%A6%AE%E5%A8%9C%C2%B7%E6%9D%9C%E6%B3%A2%E5%A4%AB>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：伊恩萨默海尔德_31>----->https://baike.baidu.com/item/%E5%A6%AE%E5%A8%9C%C2%B7%E6%9D%9C%E6%B3%A2%E5%A4%AB
+错误url : https://baike.baidu.com/item/%E4%BF%9D%E7%BD%97%C2%B7%E9%9F%A6%E6%96%AF%E5%88%A9>----->The read operation timed out
+show_url load 失败：伊恩萨默海尔德_32>----->https://baike.baidu.com/item/%E4%BF%9D%E7%BD%97%C2%B7%E9%9F%A6%E6%96%AF%E5%88%A9
+错误url : https://baike.baidu.com/item/%E4%B8%BB%E8%A7%92%E4%B8%8E%E9%85%8D%E8%A7%92>----->The read operation timed out
+movie_url load 失败：陈佩斯_2>----->https://baike.baidu.com/item/%E4%B8%BB%E8%A7%92%E4%B8%8E%E9%85%8D%E8%A7%92
+错误url : https://baike.baidu.com/item/%E9%87%91%E7%A7%A6%E7%A6%B9>----->The read operation timed out
+明星url_load失败:金秦禹:https://baike.baidu.com/item/%E9%87%91%E7%A7%A6%E7%A6%B9
+错误url : https://baike.baidu.com/item/%E6%AE%B5%E5%AE%9C%E6%81%A9>----->The read operation timed out
+明星url_load失败:段宜恩:https://baike.baidu.com/item/%E6%AE%B5%E5%AE%9C%E6%81%A9
+错误url : https://baike.baidu.com/item/%E8%B0%A2%E6%A5%A0>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:谢楠:https://baike.baidu.com/item/%E8%B0%A2%E6%A5%A0
+错误url : https://baike.baidu.com/item/%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD/5016869>----->The read operation timed out
+movie_url load 失败：张维娜_2>----->https://baike.baidu.com/item/%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD/5016869
+错误url : https://baike.baidu.com/item/1996>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：洪卫_5>----->https://baike.baidu.com/item/1996
+错误url : https://baike.baidu.com/item/Happiness>----->The read operation timed out
+movie_url load 失败：姜涩琪_1>----->https://baike.baidu.com/item/Happiness
+错误url : https://baike.baidu.com/item/%E6%9C%B4%E5%AF%92%E6%98%9F>----->The read operation timed out
+show_url load 失败：宋智孝_27>----->https://baike.baidu.com/item/%E6%9C%B4%E5%AF%92%E6%98%9F
+错误url : https://baike.baidu.com/item/JUN_K>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:JUN_K:https://baike.baidu.com/item/JUN_K
+错误url : https://baike.baidu.com/item/%E9%87%91%E9%9F%A9%E5%BD%AC>----->The read operation timed out
+show_url load 失败：Giriboy_5>----->https://baike.baidu.com/item/%E9%87%91%E9%9F%A9%E5%BD%AC
+错误url : https://baike.baidu.com/item/Bobby>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：Giriboy_6>----->https://baike.baidu.com/item/Bobby
+错误url : https://baike.baidu.com/item/%E4%BA%AB%E5%8F%97%E4%BB%8A%E5%A4%A9>----->The read operation timed out
+show_url load 失败：Krystal_60>----->https://baike.baidu.com/item/%E4%BA%AB%E5%8F%97%E4%BB%8A%E5%A4%A9
+错误url : https://baike.baidu.com/item/%E7%B2%89%E4%B8%9D%E7%A6%8F%E5%88%A9>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:粉丝福利:https://baike.baidu.com/item/%E7%B2%89%E4%B8%9D%E7%A6%8F%E5%88%A9
+错误url : https://baike.baidu.com/item/%E9%A3%8E%E4%B9%8B%E5%88%80>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：梁小冰_5>----->https://baike.baidu.com/item/%E9%A3%8E%E4%B9%8B%E5%88%80
+错误url : https://baike.baidu.com/item/%E4%B8%A5%E5%B1%B9%E5%AE%BD>----->The read operation timed out
+明星url_load失败:严屹宽:https://baike.baidu.com/item/%E4%B8%A5%E5%B1%B9%E5%AE%BD
+错误url : https://baike.baidu.com/item/%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：张艺瀚_1>----->https://baike.baidu.com/item/%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F
+错误url : https://baike.baidu.com/item/%E5%90%91%E5%8D%8E>----->The read operation timed out
+明星url_load失败:向华:https://baike.baidu.com/item/%E5%90%91%E5%8D%8E
+错误url : https://baike.baidu.com/item/%E7%AC%AC%E4%B8%80%E6%97%B6%E5%B0%9A>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：舒畅_9>----->https://baike.baidu.com/item/%E7%AC%AC%E4%B8%80%E6%97%B6%E5%B0%9A
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E6%9D%BE>----->The read operation timed out
+show_url load 失败：邱胜翊_5>----->https://baike.baidu.com/item/%E9%A9%AC%E6%9D%BE
+错误url : https://baike.baidu.com/item/%E6%AC%B2%E6%9C%9B%E7%9A%84%E9%98%B6%E6%A2%AF>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：米热_6>----->https://baike.baidu.com/item/%E6%AC%B2%E6%9C%9B%E7%9A%84%E9%98%B6%E6%A2%AF
+错误url : https://baike.baidu.com/item/%E9%80%86%E5%85%89%E4%B9%8B%E6%81%8B/15443810>----->The read operation timed out
+movie_url load 失败：米热_7>----->https://baike.baidu.com/item/%E9%80%86%E5%85%89%E4%B9%8B%E6%81%8B/15443810
+错误url : https://baike.baidu.com/item/Happy%20Together/3283347>----->The read operation timed out
+show_url load 失败：文根英_4>----->https://baike.baidu.com/item/Happy%20Together/3283347
+错误url : https://baike.baidu.com/item/%E8%BD%AC%E8%A7%92%E4%B9%8B%E6%81%8B/19443377>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：孙铱_3>----->https://baike.baidu.com/item/%E8%BD%AC%E8%A7%92%E4%B9%8B%E6%81%8B/19443377
+错误url : https://baike.baidu.com/item/%E6%A5%9A%E4%B9%94%E4%BC%A0/17156299>----->The read operation timed out
+movie_url load 失败：孙铱_4>----->https://baike.baidu.com/item/%E6%A5%9A%E4%B9%94%E4%BC%A0/17156299
