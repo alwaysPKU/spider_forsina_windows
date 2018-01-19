@@ -2,10 +2,449 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f62959-53ad-4494-8188-4f103400e1b2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" afterPath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/count.py" afterPath="$PROJECT_DIR$/recommend_baike_system/count.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" afterPath="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/1931_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/1931_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/1931_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/1931_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/1931_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2AM_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2AM_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2AM_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2AM_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2NE1_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2PM_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2PM_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AOA_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Adele_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Adele_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Adele_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Adele_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Apink_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Apink_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Apink_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Apink_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AsaButterfield_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AsaButterfield_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/AsaButterfield_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B.A.P_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B1A4_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B1A4_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B1A4_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B1A4_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/B1A4_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAEKHYUN_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAEKHYUN_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAEKHYUN_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAEKHYUN_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BAP_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEJ48_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEJ48_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEJ48_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEJ48_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEJ48_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BESTie_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BEYOND_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BLACKPINK_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BLACKPINK_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BLACKPINK_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BLACKPINK_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BamBam_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Beyonce_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Birdy_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Birdy_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Birdy_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BlockB_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BlockB_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BlockB_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoA_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoyFriend_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoyFriend_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoyFriend_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoyFriend_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BoyFriend_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BraveGirls_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BrunoMars_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BrunoMars_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BrunoMars_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BrunoMars_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/BrunoMars_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Buzz_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/C-POP_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/C-POP_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CL_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CL_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CL_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/CNBLUE_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Camilla_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Coldplay_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/ColinFirth_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/ColinFirth_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/ColinFirth_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/ColinFirth_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/ColinFirth_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/DARA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/DARA_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/DanielRadcliffe_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Davichi_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Davichi_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Davichi_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Davichi_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXID_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXID_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXID_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXID_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXOK_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EXO_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaRoberts_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaWatson_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EmmaWatson_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EpikHigh_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/EpikHigh_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/FTISLAND_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/FTISLAND_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/FTISLAND_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Fairies_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Fairies_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GACKT_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GACKT_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GACKT_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GFriend_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GFriend_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GFriend_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GFriend_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GNZ48_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GNZ48_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GNZ48_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GNZ48_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GOT7_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GOT7_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GOT7_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GOT7_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GOT7_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GreenDay_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GreenDay_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GreenDay_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/GreysonChance_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/HaNi_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/HaNi_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/HaNi_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/HaNi_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Hayden_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Hayden_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Hayden_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Hayden_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/I.O.I_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INFINITE_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/INNA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/IU_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Irene_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Irene_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Irene_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Irene_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Irene_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JJCC_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JOHNNY_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNIEL_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNIEL_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNIEL_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNIEL_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNJIN_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNJIN_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNJIN_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JUNJIN_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JYJ_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JYJ_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JYJ_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JYJ_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JYJ_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Jessica_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Jessica_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Jessica_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Jessica_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JessieJ_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JessieJ_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JessieJ_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JessieJ_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JooYoung_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JustinBieber_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JustinBieber_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JustinBieber_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JustinBieber_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/JustinBieber_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/KAT-TUN_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Kenn_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Kenn_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Kenn_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Kenn_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LISA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LadyGaga_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/LanaDelRey_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Leeminho_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lenka_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lenka_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lenka_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lorde_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lorde_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Lorde_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MBLAQ_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MC天佑_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MIC男团_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MIC男团_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MIC男团_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MIC男团_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MIC男团_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MYNAME_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Madonna_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Madonna_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MaggieQ_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MaggieQ_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MaggieQ_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mars毒药_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mars毒药_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mars毒药_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mars毒药_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mars毒药_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Mike_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MintC_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MintC_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MintC_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MintC_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MintC_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Monchanok_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MonstaX_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MonstaX_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/MonstaX_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NCT127_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NCT127_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NCT127_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NCT_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NCT_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NEWS_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NUEST_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NUEST_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Nichkhun_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Nichkhun_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Nichkhun_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Niel_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Niel_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NineMuses_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NineMuses_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NineMuses_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/NineMuses_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pchy_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pchy_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pchy_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pchy_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pentatonix_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pile_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pile_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pitbull_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pitbull_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Pitbull_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/RTA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/RTA_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Rain_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/S.H.E_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEUNGRI_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEUNGRI_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEUNGRI_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SEVENTEEN_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHE_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SHINee_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SKE48_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SKE48_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SNH48_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SPYAIR_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SPYAIR_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SUGA_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SUGA_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SWIN_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SWIN_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Secret_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Secret_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SelenaGomez_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SelenaGomez_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Snuper_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Snuper_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Snuper_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Snuper_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Somi_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Somi_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Somi_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Somi_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/Somi_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/SpeXial_1" afterPath="" />
       <change beforePath="$PROJECT_DIR$/recommend_baike_system/log" afterPath="$PROJECT_DIR$/recommend_baike_system/log" />
-      <change beforePath="$PROJECT_DIR$/recommend_baike_system/res_container/res15" afterPath="$PROJECT_DIR$/recommend_baike_system/res_container/res15" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" afterPath="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,26 +459,16 @@
     <SUITE FILE_PATH="coverage/spider$test.coverage" NAME="test Coverage Results" MODIFIED="1515405305081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$name_topicid.coverage" NAME="name_topicid Coverage Results" MODIFIED="1515380592186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$add_re_relation.coverage" NAME="add_re_relation Coverage Results" MODIFIED="1515380793598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
-    <SUITE FILE_PATH="coverage/spider$recommend_not_write_html.coverage" NAME="recommend_not_write_html Coverage Results" MODIFIED="1515998323326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
+    <SUITE FILE_PATH="coverage/spider$recommend_not_write_html.coverage" NAME="recommend_not_write_html Coverage Results" MODIFIED="1516254118954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$recommend_fromurl.coverage" NAME="recommend_fromurl Coverage Results" MODIFIED="1515575098203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="recommend_fromurl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_fromurl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recommend_not_write_html.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="recommend_not_write_html.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-145">
-              <caret line="159" column="46" lean-forward="false" selection-start-line="159" selection-start-column="46" selection-end-line="159" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -47,11 +476,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mkdir.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/mkdir.py">
+      <file leaf-file-name="res17" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res17">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="-552">
+              <caret line="3" column="704" lean-forward="false" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="704" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="res16" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res16">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-798">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load_url.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/load_url.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -60,32 +509,48 @@
       <file leaf-file-name="analysis_not_write_html.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-169">
-              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="-70">
+              <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
               <folding>
-                <element signature="e#186#1012#0" expanded="false" />
-                <element signature="e#1047#2724#0" expanded="false" />
-                <element signature="e#2754#4031#0" expanded="false" />
-                <element signature="e#4060#4832#0" expanded="false" />
-                <element signature="e#4901#6518#0" expanded="false" />
-                <element signature="e#6584#8355#0" expanded="false" />
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#156#982#0" expanded="false" />
+                <element signature="e#1018#2695#0" expanded="false" />
+                <element signature="e#2731#4008#0" expanded="false" />
+                <element signature="e#4956#5350#0" expanded="false" />
+                <element signature="e#5380#6152#0" expanded="false" />
+                <element signature="e#6221#7838#0" expanded="false" />
+                <element signature="e#7904#9675#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis.py">
+      <file leaf-file-name="res18" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res18">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
-              <folding>
-                <element signature="e#1047#2724#0" expanded="false" />
-                <element signature="e#2754#4031#0" expanded="false" />
-                <element signature="e#4060#4832#0" expanded="false" />
-                <element signature="e#4901#6516#0" expanded="false" />
-                <element signature="e#6582#8353#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pool.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1387">
+              <caret line="73" column="63" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="63" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,18 +558,8 @@
       <file leaf-file-name="count.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recommend_list" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_container/recommend10/recommend_list">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66801">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="208">
+              <caret line="19" column="56" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -113,28 +568,8 @@
       <file leaf-file-name="add_re_relation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/add_re_relation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="79" column="48" lean-forward="false" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="name_topicid.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1588">
-              <caret line="159" column="40" lean-forward="false" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="res13" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res13">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9025">
-              <caret line="475" column="7" lean-forward="false" selection-start-line="475" selection-start-column="1" selection-end-line="475" selection-end-column="7" />
+            <state relative-caret-position="-931">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -152,10 +587,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>load</find>
-      <find>print</find>
       <find>&quot;贾征宇&quot;:</find>
       <find>[1]</find>
       <find>count</find>
+      <find>黄小蕾</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,9 +614,10 @@
         <option value="$PROJECT_DIR$/recommend_baike_system/recommend&amp;notwritehtml.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/name_topicid.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" />
-        <option value="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/mkdir.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/count.py" />
+        <option value="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" />
+        <option value="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
       </list>
     </option>
   </component>
@@ -213,6 +650,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,8 +673,7 @@
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="recommend_baike_system" type="462c0819:PsiDirectoryNode" />
-              <item name="recommend_container" type="462c0819:PsiDirectoryNode" />
-              <item name="recommend10" type="462c0819:PsiDirectoryNode" />
+              <item name="res_container" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
@@ -257,7 +694,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,14 +856,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49603805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35023773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -474,32 +911,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_fromhtml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res9">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_container/recommend6/recommend_list_prior">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/get_stardict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-551">
@@ -507,69 +923,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/豆满t">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/邓力玮">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/郑泽运">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/GNZ48刘倩倩">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/Larry">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/YaoStyle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/刘戴恩">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/丁志城">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/bigbang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/豆满t" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/邓力玮" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/郑泽运" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/GNZ48刘倩倩" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/Larry" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/YaoStyle" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/刘戴恩" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/丁志城" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/bigbang" />
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/shuchang">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -577,48 +939,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/王闯">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/杜光祎">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/2PM">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/ColeSprouse">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2PM_2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/show/吴奇隆_3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/王闯" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/杜光祎" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/2PM" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/ColeSprouse" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/movie/2PM_2" />
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/show/吴奇隆_3" />
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res10">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61747">
@@ -634,13 +960,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/None_recommend_list" />
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="73" column="63" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/get_analysis_url.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -673,22 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2147">
           <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/load_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="643" column="0" lean-forward="false" selection-start-line="643" selection-start-column="0" selection-end-line="643" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9823">
           <caret line="517" column="7" lean-forward="false" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9025">
           <caret line="475" column="7" lean-forward="false" selection-start-line="475" selection-start-column="1" selection-end-line="475" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,15 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1588">
-          <caret line="159" column="40" lean-forward="false" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,21 +1076,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/add_re_relation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="79" column="48" lean-forward="false" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="855">
           <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
           <folding>
             <element signature="e#1047#2724#0" expanded="false" />
@@ -812,43 +1093,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-169">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <element signature="e#186#1012#0" expanded="false" />
-            <element signature="e#1047#2724#0" expanded="false" />
-            <element signature="e#2754#4031#0" expanded="false" />
-            <element signature="e#4060#4832#0" expanded="false" />
-            <element signature="e#4901#6518#0" expanded="false" />
-            <element signature="e#6584#8355#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="159" column="46" lean-forward="false" selection-start-line="159" selection-start-column="46" selection-end-line="159" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_container/recommend10/recommend_list">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66801">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -858,6 +1106,105 @@
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="63" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/load_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res17">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="3" column="704" lean-forward="false" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="704" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res18">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#156#982#0" expanded="false" />
+            <element signature="e#1018#2695#0" expanded="false" />
+            <element signature="e#2731#4008#0" expanded="false" />
+            <element signature="e#4956#5350#0" expanded="false" />
+            <element signature="e#5380#6152#0" expanded="false" />
+            <element signature="e#6221#7838#0" expanded="false" />
+            <element signature="e#7904#9675#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/add_re_relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

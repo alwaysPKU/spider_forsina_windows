@@ -1,9 +1,11 @@
 import bs4
 import recommend_baike_system.load_url as lurl
 import re
-from multiprocessing import Pool
+
 # 这里输入都是load的data
 tmp = "https://baike.baidu.com" #拼接前缀
+
+
 def get_relations(data):
     """
     解析的到relation关系
@@ -34,6 +36,7 @@ def get_relations(data):
             res.append(dict_tmp)
     # print(relations)
     return res
+
 
 def get_movieurl_old1(data):
     """
@@ -85,7 +88,8 @@ def get_movieurl_old1(data):
     # print(url)
     return url
 
-def get_movieurl(data):
+
+def get_movieurl_old2(data):
     """
     更新规则，从代表总品的列表里获取
     :param data:
@@ -128,6 +132,51 @@ def get_movieurl(data):
     else:
         return None
     return url
+
+
+def get_movieurl(data):
+    """
+    增加规则，从starMovieAndTvplay里添加movieurl和TVurl
+    :param data:
+    :return:
+    """
+    url = []
+    soup1 = bs4.BeautifulSoup(data, 'html.parser')
+    tags1 = soup1.find_all('div', {'class': 'starMovieAndTvplay'})
+    for tag1 in tags1:
+        soup2 = bs4.BeautifulSoup(str(tag1), 'html.parser')
+        tags2 = soup2.find_all('li', {'class': 'listItem'})
+        for tag2 in tags2:
+            soup3 = bs4.BeautifulSoup(str(tag2), 'html.parser')
+            tag3 = soup3.find('a', {'href': True})
+            if tag3 is not None:
+                url_tmp = tag3['href']
+                if url_tmp[0] == '/':
+                    movie_url = tmp + url_tmp
+                elif url_tmp[1] == 'h':
+                    movie_url = url_tmp
+                else:
+                    continue
+            else:
+                continue
+            url.append(movie_url)
+    return url
+
+
+def get_movieurl_sum(data):
+    # p = Pool(2)
+    # url1 = p.apply_async(get_movieurl_old2, args=(data,)).get()
+    # url2 = p.apply_async(get_movieandtvurl, args=(data,)).get()
+    url1 = get_movieurl_old2(data)
+    url2 = get_movieandtvurl(data)
+    if url1 == None or url1 == '':
+        return url2
+    elif url2 == None or url1 == '':
+        return url1
+    else:
+        url2.extend(url1)
+        return list(set(url2))
+
 
 def get_showurl(data):
     """

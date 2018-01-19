@@ -34,6 +34,8 @@ def get_movieset(movie_url, movie_path,star_name):
         else:
             continue
     return movie_set
+
+
 def get_showset(show_url, show_path, star_name):
     show_set = set()
     n = 0
@@ -152,8 +154,8 @@ if __name__=='__main__':
 
     # 创建url列表
     path = '.\\oid_name_type\\20180114.txt'
-    path_res = '.\\res_container\\res15'
-    path_recommend = mk.mkdir('.\\recommend_container\\recommend10\\')
+    path_res = '.\\res_container\\res19'
+    path_recommend = mk.mkdir('.\\recommend_container\\recommend11\\')
     # {starname:url}
     full = []
     full.append(star.get_mingxingurl_dict(path))
@@ -170,5 +172,7 @@ if __name__=='__main__':
 
     end_time = time.time()
     print('程序运行了：'+str((end_time-start_time)/60) + '分钟')
+    with open(path_recommend+'recommend_count','a',encoding='utf-8') as f:
+        f.write('程序运行了：'+str((end_time-start_time)/60) + '分钟')
 
 
