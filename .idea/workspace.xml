@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f62959-53ad-4494-8188-4f103400e1b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" afterPath="$PROJECT_DIR$/recommend_baike_system/Null_recommend_list" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" afterPath="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" afterPath="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/count.py" afterPath="$PROJECT_DIR$/recommend_baike_system/count.py" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/log" afterPath="$PROJECT_DIR$/recommend_baike_system/log" />
+      <change beforePath="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" afterPath="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +23,7 @@
     <SUITE FILE_PATH="coverage/spider$test.coverage" NAME="test Coverage Results" MODIFIED="1515405305081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$name_topicid.coverage" NAME="name_topicid Coverage Results" MODIFIED="1515380592186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$add_re_relation.coverage" NAME="add_re_relation Coverage Results" MODIFIED="1515380793598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
-    <SUITE FILE_PATH="coverage/spider$recommend_not_write_html.coverage" NAME="recommend_not_write_html Coverage Results" MODIFIED="1516254118954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
+    <SUITE FILE_PATH="coverage/spider$recommend_not_write_html.coverage" NAME="recommend_not_write_html Coverage Results" MODIFIED="1516601865755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
     <SUITE FILE_PATH="coverage/spider$recommend_fromurl.coverage" NAME="recommend_fromurl Coverage Results" MODIFIED="1515575098203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recommend_baike_system" />
   </component>
   <component name="FileEditorManager">
@@ -26,11 +31,29 @@
       <file leaf-file-name="recommend_not_write_html.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="586">
+              <caret line="183" column="66" lean-forward="false" selection-start-line="183" selection-start-column="66" selection-end-line="183" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="res20" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res20">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recommend_count" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_container/recommend11/recommend_count">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79344">
+              <caret line="4176" column="72" lean-forward="false" selection-start-line="4176" selection-start-column="72" selection-end-line="4176" selection-end-column="72" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,28 +61,8 @@
       <file leaf-file-name="res17" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res17">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-552">
+            <state relative-caret-position="57">
               <caret line="3" column="704" lean-forward="false" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="704" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="res16" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res16">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-798">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load_url.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/load_url.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -68,17 +71,19 @@
       <file leaf-file-name="analysis_not_write_html.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-70">
-              <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
+            <state relative-caret-position="551">
+              <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
                 <element signature="e#156#982#0" expanded="false" />
                 <element signature="e#1018#2695#0" expanded="false" />
                 <element signature="e#2731#4008#0" expanded="false" />
+                <element signature="e#4039#4921#0" expanded="false" />
                 <element signature="e#4956#5350#0" expanded="false" />
                 <element signature="e#5380#6152#0" expanded="false" />
                 <element signature="e#6221#7838#0" expanded="false" />
-                <element signature="e#7904#9675#0" expanded="false" />
+                <element signature="e#7878#9178#0" expanded="false" />
+                <element signature="e#9245#11016#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -94,21 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pool.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
+      <file leaf-file-name="name_topicid.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="3021">
+              <caret line="159" column="40" lean-forward="false" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend_baike_system/log">
+      <file leaf-file-name="pool.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1387">
-              <caret line="73" column="63" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="63" />
+            <state relative-caret-position="2033">
+              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,8 +122,8 @@
       <file leaf-file-name="count.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="399">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,8 +132,8 @@
       <file leaf-file-name="add_re_relation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend_baike_system/add_re_relation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-931">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="1501">
+              <caret line="79" column="52" lean-forward="false" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -172,8 +177,8 @@
         <option value="$PROJECT_DIR$/recommend_baike_system/test.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/recommend&amp;notwritehtml.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/name_topicid.py" />
-        <option value="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/mkdir.py" />
+        <option value="$PROJECT_DIR$/recommend_baike_system/add_re_relation.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/count.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py" />
         <option value="$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py" />
@@ -208,8 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,18 +224,6 @@
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="recommend_baike_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="recommend_baike_system" type="462c0819:PsiDirectoryNode" />
-              <item name="recommend_container" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="recommend_baike_system" type="462c0819:PsiDirectoryNode" />
-              <item name="res_container" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
@@ -253,6 +244,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,15 +254,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system\oid_name_type" />
       <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system" />
       <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system\res_container" />
       <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system\recommend_container" />
       <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shixi_zhangwei6\PycharmProjects\spider\recommend_baike_system" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,9 +413,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35023773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35023773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -474,14 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/get_stardict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/豆满t" />
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/邓力玮" />
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/郑泽运" />
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/html/2018_01_04/star/GNZ48刘倩倩" />
@@ -641,13 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
-          <folding>
-            <element signature="e#1047#2724#0" expanded="false" />
-            <element signature="e#2754#4031#0" expanded="false" />
-            <element signature="e#4060#4832#0" expanded="false" />
-            <element signature="e#4901#6516#0" expanded="false" />
-            <element signature="e#6582#8353#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,19 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1387">
           <caret line="73" column="63" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res16">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -701,7 +669,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res17">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
+        <state relative-caret-position="57">
           <caret line="3" column="704" lean-forward="false" selection-start-line="3" selection-start-column="701" selection-end-line="3" selection-end-column="704" />
           <folding />
         </state>
@@ -717,52 +685,76 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="2033">
           <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="160" column="24" lean-forward="false" selection-start-line="160" selection-start-column="24" selection-end-line="160" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#156#982#0" expanded="false" />
-            <element signature="e#1018#2695#0" expanded="false" />
-            <element signature="e#2731#4008#0" expanded="false" />
-            <element signature="e#4956#5350#0" expanded="false" />
-            <element signature="e#5380#6152#0" expanded="false" />
-            <element signature="e#6221#7838#0" expanded="false" />
-            <element signature="e#7904#9675#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/add_re_relation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="1501">
+          <caret line="79" column="52" lean-forward="false" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/name_topicid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3021">
+          <caret line="159" column="40" lean-forward="false" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_container/recommend11/recommend_count">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79344">
+          <caret line="4176" column="72" lean-forward="false" selection-start-line="4176" selection-start-column="72" selection-end-line="4176" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/res_container/res20">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_baike_system/analysis_not_write_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#156#982#0" expanded="false" />
+            <element signature="e#1018#2695#0" expanded="false" />
+            <element signature="e#2731#4008#0" expanded="false" />
+            <element signature="e#4039#4921#0" expanded="false" />
+            <element signature="e#4956#5350#0" expanded="false" />
+            <element signature="e#5380#6152#0" expanded="false" />
+            <element signature="e#6221#7838#0" expanded="false" />
+            <element signature="e#7878#9178#0" expanded="false" />
+            <element signature="e#9245#11016#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend_baike_system/recommend_not_write_html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="586">
+          <caret line="183" column="66" lean-forward="false" selection-start-line="183" selection-start-column="66" selection-end-line="183" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>

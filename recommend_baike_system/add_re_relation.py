@@ -77,5 +77,5 @@ def add_re(path_recommend):
 
                 line=f3.readline()
     with open(path_recommend+'recommend_count','a',encoding='utf-8') as f4:
-        f4.write('增加双向关系量:'+js.dumps(full_count))
+        f4.write('增加双向关系量:'+js.dumps(full_count)+'\n')
     print('增加的双向关系量：', full_count)

@@ -36,6 +36,24 @@ def get_movieset(movie_url, movie_path,star_name):
     return movie_set
 
 
+def get_movie_relation_list(movie_url):
+    """
+    因为要按电影先后顺序排列人物关系，所以需要list
+    :param movie_url:
+    :return:
+    """
+    movie_relation_list = []
+    for url in movie_url:
+        tmp_list = analysis.analysis_movieurl_list(url)
+        if tmp_list:
+            movie_relation_list.extend(tmp_list)
+        else:
+            continue
+    relation = list(set(movie_relation_list))
+    relation.sort(key=movie_relation_list.index)
+    return relation
+
+
 def get_showset(show_url, show_path, star_name):
     show_set = set()
     n = 0
@@ -54,7 +72,6 @@ def get_showset(show_url, show_path, star_name):
 
 def recomend(star_url,star_path,movie_path,show_path,path_res):
     with open(path_res,'a', encoding='UTF-8') as f:
-
         for k,v in star_url.items():
             p1 = Pool(3)
             star_name = k    #明星名字
@@ -101,17 +118,26 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
 
             p2 = Pool(2)
             #load movieurl列表并解析
-            if movie_url != None:
+            # if movie_url != None:
+            #     print('movie')
+            #
+            #     # 逐一借些movie的url
+            #     movie_set = p2.apply_async(get_movieset,args=(movie_url, movie_path, star_name)).get()
+            #     # 把该明星名字从列表中去除
+            #     if movie_set != '' and star_name in movie_set:
+            #         movie_set.remove(star_name)
+            #     movie_list=list(movie_set)
+            #     movie_dic['movie']=movie_list
+            #     if len(movie_dic['movie']) != 0 and movie_dic['movie'] != None:
+            #         full_relation.append(movie_dic)
+            #         print('movie_over')
+            if movie_url:
                 print('movie')
-
-                # 逐一借些movie的url
-                movie_set = p2.apply_async(get_movieset,args=(movie_url, movie_path, star_name)).get()
-                # 把该明星名字从列表中去除
-                if movie_set != '' and star_name in movie_set:
-                    movie_set.remove(star_name)
-                movie_list=list(movie_set)
-                movie_dic['movie']=movie_list
-                if len(movie_dic['movie']) != 0 and movie_dic['movie'] != None:
+                movie_relation_list = p2.apply_async(get_movie_relation_list, args=(movie_url,)).get()
+                if movie_relation_list and star_name in movie_relation_list:
+                    movie_relation_list.remove(star_name)
+                movie_dic['movie'] = movie_relation_list
+                if movie_dic['movie']:
                     full_relation.append(movie_dic)
                     print('movie_over')
 
@@ -153,9 +179,9 @@ if __name__=='__main__':
     path3 = mk.mkdir(star_show_html)
 
     # 创建url列表
-    path = '.\\oid_name_type\\20180114.txt'
-    path_res = '.\\res_container\\res19'
-    path_recommend = mk.mkdir('.\\recommend_container\\recommend11\\')
+    path = '.\\oid_name_type\\20180117.txt'
+    path_res = '.\\res_container\\res21'
+    path_recommend = mk.mkdir('.\\recommend_container\\recommend13\\')
     # {starname:url}
     full = []
     full.append(star.get_mingxingurl_dict(path))
@@ -171,8 +197,10 @@ if __name__=='__main__':
     count.count(path_recommend)
 
     end_time = time.time()
-    print('程序运行了：'+str((end_time-start_time)/60) + '分钟')
+    time= (end_time-start_time)/60
+    print('0119号蜘蛛运行了：'+str(time) + '分钟')
+    print('大概'+str(time/60)+'小时')
     with open(path_recommend+'recommend_count','a',encoding='utf-8') as f:
-        f.write('程序运行了：'+str((end_time-start_time)/60) + '分钟')
+        f.write('0119号蜘蛛运行了：'+str(time) + '分钟')
 
 

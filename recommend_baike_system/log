@@ -3248,3 +3248,658 @@ movie_url load 失败：特洛耶希文_4>----->https://baike.baidu.com/item/201
 明星url_load失败:张雨鑫:https://baike.baidu.com/item/%E5%BC%A0%E9%9B%A8%E9%91%AB
 错误url : https://baike.baidu.com/item/INNERCIRCLE>-----><urlopen error _ssl.c:761: The handshake operation timed out>
 明星url_load失败:INNERCIRCLE:https://baike.baidu.com/item/INNERCIRCLE
+错误url : https://baike.baidu.com/item/%E9%99%88%E9%92%B0%E7%90%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈钰琪:https://baike.baidu.com/item/%E9%99%88%E9%92%B0%E7%90%AA
+错误url : https://baike.baidu.com/item/%E5%90%B4%E5%BD%A6%E5%A7%9D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:吴彦姝:https://baike.baidu.com/item/%E5%90%B4%E5%BD%A6%E5%A7%9D
+错误url : https://baike.baidu.com/item/%E7%AE%A1%E4%B9%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:管乐:https://baike.baidu.com/item/%E7%AE%A1%E4%B9%90
+错误url : https://baike.baidu.com/item/%E7%8E%8B%E8%90%8C%E9%BB%8E>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:王萌黎:https://baike.baidu.com/item/%E7%8E%8B%E8%90%8C%E9%BB%8E
+错误url : https://baike.baidu.com/item/%E7%BC%98%E5%AE%9D%E5%85%AC%E4%B8%BB>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:缘宝公主:https://baike.baidu.com/item/%E7%BC%98%E5%AE%9D%E5%85%AC%E4%B8%BB
+错误url : https://baike.baidu.com/item/V>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:V:https://baike.baidu.com/item/V
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E7%9A%93%E4%BA%AC>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李皓京:https://baike.baidu.com/item/%E6%9D%8E%E7%9A%93%E4%BA%AC
+错误url : https://baike.baidu.com/item/%E5%88%98%E5%86%A0%E7%BF%94>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:刘冠翔:https://baike.baidu.com/item/%E5%88%98%E5%86%A0%E7%BF%94
+错误url : https://baike.baidu.com/item/%E6%85%8E%E9%87%8D%E6%B0%91>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:慎重民:https://baike.baidu.com/item/%E6%85%8E%E9%87%8D%E6%B0%91
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E6%99%AF%E6%B7%B3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张景淳:https://baike.baidu.com/item/%E5%BC%A0%E6%99%AF%E6%B7%B3
+错误url : https://baike.baidu.com/item/%E5%B0%A4%E5%A9%A7%E8%8C%B9>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:尤婧茹:https://baike.baidu.com/item/%E5%B0%A4%E5%A9%A7%E8%8C%B9
+错误url : https://baike.baidu.com/item/%E5%8C%97%E6%9D%91%E8%B0%85>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:北村谅:https://baike.baidu.com/item/%E5%8C%97%E6%9D%91%E8%B0%85
+错误url : https://baike.baidu.com/item/%E9%99%88%E7%9A%93>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈皓:https://baike.baidu.com/item/%E9%99%88%E7%9A%93
+错误url : https://baike.baidu.com/item/%E4%BD%95%E6%9D%9C%E5%A8%9F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:何杜娟:https://baike.baidu.com/item/%E4%BD%95%E6%9D%9C%E5%A8%9F
+错误url : https://baike.baidu.com/item/%E7%8E%8B%E5%80%A9%E4%B8%80>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:王倩一:https://baike.baidu.com/item/%E7%8E%8B%E5%80%A9%E4%B8%80
+错误url : https://baike.baidu.com/item/%E6%B8%A9%E5%8D%87%E8%B1%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:温升豪:https://baike.baidu.com/item/%E6%B8%A9%E5%8D%87%E8%B1%AA
+错误url : https://baike.baidu.com/item/%E5%8F%B6%E9%A1%B9%E6%98%8E>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:叶项明:https://baike.baidu.com/item/%E5%8F%B6%E9%A1%B9%E6%98%8E
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E5%AD%90%E8%B1%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张子豪:https://baike.baidu.com/item/%E5%BC%A0%E5%AD%90%E8%B1%AA
+错误url : https://baike.baidu.com/item/cherrygirls%E6%9B%BE%E9%9B%AA%E7%90%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:cherrygirls曾雪琪:https://baike.baidu.com/item/cherrygirls%E6%9B%BE%E9%9B%AA%E7%90%AA
+错误url : https://baike.baidu.com/item/%E8%8B%8F%E5%BF%97%E4%BA%A8>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:苏志亨:https://baike.baidu.com/item/%E8%8B%8F%E5%BF%97%E4%BA%A8
+错误url : https://baike.baidu.com/item/%E6%9D%89%E9%87%8E%E9%81%A5%E4%BA%AE>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:杉野遥亮:https://baike.baidu.com/item/%E6%9D%89%E9%87%8E%E9%81%A5%E4%BA%AE
+错误url : https://baike.baidu.com/item/AlexLawther>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:AlexLawther:https://baike.baidu.com/item/AlexLawther
+错误url : https://baike.baidu.com/item/%E5%90%B4%E6%96%87%E7%92%9F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:吴文璟:https://baike.baidu.com/item/%E5%90%B4%E6%96%87%E7%92%9F
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E6%95%AC%E6%B6%B5>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:马敬涵:https://baike.baidu.com/item/%E9%A9%AC%E6%95%AC%E6%B6%B5
+错误url : https://baike.baidu.com/item/%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:中森明菜:https://baike.baidu.com/item/%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C
+错误url : https://baike.baidu.com/item/%E8%8A%A6%E8%8A%B3%E7%94%9F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:芦芳生:https://baike.baidu.com/item/%E8%8A%A6%E8%8A%B3%E7%94%9F
+错误url : https://baike.baidu.com/item/%E6%9C%AB%E6%B0%B8%E6%A1%9C%E8%8A%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:末永桜花:https://baike.baidu.com/item/%E6%9C%AB%E6%B0%B8%E6%A1%9C%E8%8A%B1
+错误url : https://baike.baidu.com/item/%E7%9C%9F%E7%90%B4%E7%BF%BC>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:真琴翼:https://baike.baidu.com/item/%E7%9C%9F%E7%90%B4%E7%BF%BC
+错误url : https://baike.baidu.com/item/%E5%85%A8%E6%B0%91k%E6%AD%8C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:全民k歌:https://baike.baidu.com/item/%E5%85%A8%E6%B0%91k%E6%AD%8C
+错误url : https://baike.baidu.com/item/%E9%99%86%E9%AA%8F%E7%91%B6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陆骏瑶:https://baike.baidu.com/item/%E9%99%86%E9%AA%8F%E7%91%B6
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E8%99%B9%E8%BE%B0>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李虹辰:https://baike.baidu.com/item/%E6%9D%8E%E8%99%B9%E8%BE%B0
+错误url : https://baike.baidu.com/item/%E6%98%A5%E5%A4%8F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:春夏:https://baike.baidu.com/item/%E6%98%A5%E5%A4%8F
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E7%82%AF%E6%95%8F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张炯敏:https://baike.baidu.com/item/%E5%BC%A0%E7%82%AF%E6%95%8F
+错误url : https://baike.baidu.com/item/%E5%90%B4%E5%90%AF%E5%8D%8E>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:吴启华:https://baike.baidu.com/item/%E5%90%B4%E5%90%AF%E5%8D%8E
+错误url : https://baike.baidu.com/item/margie_rasri>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:margie_rasri:https://baike.baidu.com/item/margie_rasri
+错误url : https://baike.baidu.com/item/%E5%B2%91%E4%B8%BD%E9%A6%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:岑丽香:https://baike.baidu.com/item/%E5%B2%91%E4%B8%BD%E9%A6%99
+错误url : https://baike.baidu.com/item/%E9%99%88%E8%8B%A5%E8%BD%A9>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈若轩:https://baike.baidu.com/item/%E9%99%88%E8%8B%A5%E8%BD%A9
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E5%80%A9%E5%80%A9>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:马倩倩:https://baike.baidu.com/item/%E9%A9%AC%E5%80%A9%E5%80%A9
+错误url : https://baike.baidu.com/item/%E5%AE%89%E5%96%9C%E5%BB%B6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:安喜延:https://baike.baidu.com/item/%E5%AE%89%E5%96%9C%E5%BB%B6
+错误url : https://baike.baidu.com/item/%E6%8B%9C%E6%89%98%EF%BC%81%E5%88%AB%E9%BB%91%E6%88%91%EF%BC%81/19841733>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+movie_url load 失败：马梓铭_1>----->https://baike.baidu.com/item/%E6%8B%9C%E6%89%98%EF%BC%81%E5%88%AB%E9%BB%91%E6%88%91%EF%BC%81/19841733
+错误url : https://baike.baidu.com/item/%E5%86%8D%E8%A7%81X%E5%85%88%E7%94%9F/19688502>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+movie_url load 失败：马梓铭_2>----->https://baike.baidu.com/item/%E5%86%8D%E8%A7%81X%E5%85%88%E7%94%9F/19688502
+错误url : https://baike.baidu.com/item/%E5%94%90%E5%AB%A3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:唐嫣:https://baike.baidu.com/item/%E5%94%90%E5%AB%A3
+错误url : https://baike.baidu.com/item/%E8%B5%B5%E5%81%A5>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:赵健:https://baike.baidu.com/item/%E8%B5%B5%E5%81%A5
+错误url : https://baike.baidu.com/item/%E5%94%90%E8%89%BA%E6%98%95>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:唐艺昕:https://baike.baidu.com/item/%E5%94%90%E8%89%BA%E6%98%95
+错误url : https://baike.baidu.com/item/%E6%B2%B3%E6%AD%A3%E5%AE%87>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:河正宇:https://baike.baidu.com/item/%E6%B2%B3%E6%AD%A3%E5%AE%87
+错误url : https://baike.baidu.com/item/%E5%85%B3%E6%99%93%E5%BD%A4>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:关晓彤:https://baike.baidu.com/item/%E5%85%B3%E6%99%93%E5%BD%A4
+错误url : https://baike.baidu.com/item/%E9%82%B1%E6%98%8A%E5%A5%87>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:邱昊奇:https://baike.baidu.com/item/%E9%82%B1%E6%98%8A%E5%A5%87
+错误url : https://baike.baidu.com/item/%E4%B8%8A%E6%9D%91%E8%8E%89%E8%8F%9C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:上村莉菜:https://baike.baidu.com/item/%E4%B8%8A%E6%9D%91%E8%8E%89%E8%8F%9C
+错误url : https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%E9%99%88%E7%AB%8B%E5%86%9C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:偶像练习生陈立农:https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%E9%99%88%E7%AB%8B%E5%86%9C
+错误url : https://baike.baidu.com/item/%E9%99%88%E5%AD%90%E5%A6%8D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈子妍:https://baike.baidu.com/item/%E9%99%88%E5%AD%90%E5%A6%8D
+错误url : https://baike.baidu.com/item/%E5%AE%8B%E6%99%93%E8%8B%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:宋晓英:https://baike.baidu.com/item/%E5%AE%8B%E6%99%93%E8%8B%B1
+错误url : https://baike.baidu.com/item/%E9%BB%8E%E4%B8%80%E8%90%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:黎一萱:https://baike.baidu.com/item/%E9%BB%8E%E4%B8%80%E8%90%B1
+错误url : https://baike.baidu.com/item/%E7%AB%A5%E6%A8%A1%E5%BE%90%E8%89%BA%E8%8F%B2>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:童模徐艺菲:https://baike.baidu.com/item/%E7%AB%A5%E6%A8%A1%E5%BE%90%E8%89%BA%E8%8F%B2
+错误url : https://baike.baidu.com/item/%E9%99%88%E5%8A%BF%E5%AE%89>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈势安:https://baike.baidu.com/item/%E9%99%88%E5%8A%BF%E5%AE%89
+错误url : https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%A4%AAayato>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:日本正太ayato:https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%A4%AAayato
+错误url : https://baike.baidu.com/item/%E9%9F%A9%E5%BA%9A>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:韩庚:https://baike.baidu.com/item/%E9%9F%A9%E5%BA%9A
+错误url : https://baike.baidu.com/item/%E8%AE%B8%E5%87%AF>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:许凯:https://baike.baidu.com/item/%E8%AE%B8%E5%87%AF
+错误url : https://baike.baidu.com/item/%E7%8E%8B%E5%8F%8C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:王双:https://baike.baidu.com/item/%E7%8E%8B%E5%8F%8C
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E5%8D%83%E5%A3%B9>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:马千壹:https://baike.baidu.com/item/%E9%A9%AC%E5%8D%83%E5%A3%B9
+错误url : https://baike.baidu.com/item/%E8%B5%B5%E6%A2%93%E6%BA%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:赵梓源:https://baike.baidu.com/item/%E8%B5%B5%E6%A2%93%E6%BA%90
+错误url : https://baike.baidu.com/item/%E6%9D%9C%E6%B1%9F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:杜江:https://baike.baidu.com/item/%E6%9D%9C%E6%B1%9F
+错误url : https://baike.baidu.com/item/%E5%89%8D%E7%94%B0%E6%95%A6%E5%AD%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:前田敦子:https://baike.baidu.com/item/%E5%89%8D%E7%94%B0%E6%95%A6%E5%AD%90
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E8%BF%9B%E8%8D%A3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李进荣:https://baike.baidu.com/item/%E6%9D%8E%E8%BF%9B%E8%8D%A3
+错误url : https://baike.baidu.com/item/%E5%BE%90%E6%99%93%E7%92%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐晓璐:https://baike.baidu.com/item/%E5%BE%90%E6%99%93%E7%92%90
+错误url : https://baike.baidu.com/item/%E5%88%98%E8%83%9C%E7%94%B7>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:刘胜男:https://baike.baidu.com/item/%E5%88%98%E8%83%9C%E7%94%B7
+错误url : https://baike.baidu.com/item/%E5%89%8D%E5%B1%B1%E5%89%9B%E4%B9%85>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:前山剛久:https://baike.baidu.com/item/%E5%89%8D%E5%B1%B1%E5%89%9B%E4%B9%85
+错误url : https://baike.baidu.com/item/%E4%BD%95%E4%BD%B3%E9%A2%96>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:何佳颖:https://baike.baidu.com/item/%E4%BD%95%E4%BD%B3%E9%A2%96
+错误url : https://baike.baidu.com/item/ahl48>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:ahl48:https://baike.baidu.com/item/ahl48
+错误url : https://baike.baidu.com/item/PENTAGON>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:PENTAGON:https://baike.baidu.com/item/PENTAGON
+错误url : https://baike.baidu.com/item/%E9%81%93%E6%9E%9D%E9%AA%8F%E4%BD%91>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:道枝骏佑:https://baike.baidu.com/item/%E9%81%93%E6%9E%9D%E9%AA%8F%E4%BD%91
+错误url : https://baike.baidu.com/item/%E5%88%98%E6%B0%B8%E6%89%8D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:刘永才:https://baike.baidu.com/item/%E5%88%98%E6%B0%B8%E6%89%8D
+错误url : https://baike.baidu.com/item/%E6%B4%AA%E7%9C%9F%E8%8B%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:洪真英:https://baike.baidu.com/item/%E6%B4%AA%E7%9C%9F%E8%8B%B1
+错误url : https://baike.baidu.com/item/%E5%8F%B6%E7%AB%A5%E8%B5%B5%E9%9B%85%E8%8A%9D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:叶童赵雅芝:https://baike.baidu.com/item/%E5%8F%B6%E7%AB%A5%E8%B5%B5%E9%9B%85%E8%8A%9D
+错误url : https://baike.baidu.com/item/%E5%AE%8B%E6%99%A8>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:宋晨:https://baike.baidu.com/item/%E5%AE%8B%E6%99%A8
+错误url : https://baike.baidu.com/item/%E5%A7%9C%E6%B2%B3%E9%82%A3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:姜河那:https://baike.baidu.com/item/%E5%A7%9C%E6%B2%B3%E9%82%A3
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E6%A0%BC>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张格:https://baike.baidu.com/item/%E5%BC%A0%E6%A0%BC
+错误url : https://baike.baidu.com/item/%E8%89%BE%E6%99%93%E7%90%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:艾晓琪:https://baike.baidu.com/item/%E8%89%BE%E6%99%93%E7%90%AA
+错误url : https://baike.baidu.com/item/%E9%87%91%E6%99%BA%E9%9B%A8>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:金智雨:https://baike.baidu.com/item/%E9%87%91%E6%99%BA%E9%9B%A8
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E8%8A%B3%E6%B7%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李芳淙:https://baike.baidu.com/item/%E6%9D%8E%E8%8A%B3%E6%B7%99
+错误url : https://baike.baidu.com/item/%E5%B7%A5%E8%97%A4%E9%81%A5>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:工藤遥:https://baike.baidu.com/item/%E5%B7%A5%E8%97%A4%E9%81%A5
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E8%89%BA%E5%BD%A4>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李艺彤:https://baike.baidu.com/item/%E6%9D%8E%E8%89%BA%E5%BD%A4
+错误url : https://baike.baidu.com/item/joealwyn>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:joealwyn:https://baike.baidu.com/item/joealwyn
+错误url : https://baike.baidu.com/item/ClaireHolt>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:ClaireHolt:https://baike.baidu.com/item/ClaireHolt
+错误url : https://baike.baidu.com/item/%E9%87%91%E9%9F%A9%E4%B8%80>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:金韩一:https://baike.baidu.com/item/%E9%87%91%E9%9F%A9%E4%B8%80
+错误url : https://baike.baidu.com/item/%E5%B4%94%E7%81%BF%E7%86%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:崔灿熙:https://baike.baidu.com/item/%E5%B4%94%E7%81%BF%E7%86%99
+错误url : https://baike.baidu.com/item/%E5%A7%9C%E6%95%8F%E4%BA%AC>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:姜敏京:https://baike.baidu.com/item/%E5%A7%9C%E6%95%8F%E4%BA%AC
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E7%83%94%E6%95%8F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张烔敏:https://baike.baidu.com/item/%E5%BC%A0%E7%83%94%E6%95%8F
+错误url : https://baike.baidu.com/item/%E6%AF%94%E5%98%89%E7%88%B1%E6%9C%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:比嘉爱未:https://baike.baidu.com/item/%E6%AF%94%E5%98%89%E7%88%B1%E6%9C%AA
+错误url : https://baike.baidu.com/item/%E5%BE%90%E6%AD%A3%E6%9B%A6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐正曦:https://baike.baidu.com/item/%E5%BE%90%E6%AD%A3%E6%9B%A6
+错误url : https://baike.baidu.com/item/DavidBowie>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:DavidBowie:https://baike.baidu.com/item/DavidBowie
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E7%81%BF%E5%8D%A2%E5%8D%93>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:小灿卢卓:https://baike.baidu.com/item/%E5%B0%8F%E7%81%BF%E5%8D%A2%E5%8D%93
+错误url : https://baike.baidu.com/item/%E4%B8%B8%E5%B1%B1%E9%9A%86%E5%B9%B3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:丸山隆平:https://baike.baidu.com/item/%E4%B8%B8%E5%B1%B1%E9%9A%86%E5%B9%B3
+错误url : https://baike.baidu.com/item/%E8%83%A1%E5%86%B0%E5%8D%BF>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:胡冰卿:https://baike.baidu.com/item/%E8%83%A1%E5%86%B0%E5%8D%BF
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E7%89%B5>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李牵:https://baike.baidu.com/item/%E6%9D%8E%E7%89%B5
+错误url : https://baike.baidu.com/item/BEJ48%E5%88%98%E8%83%9C%E7%94%B7>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:BEJ48刘胜男:https://baike.baidu.com/item/BEJ48%E5%88%98%E8%83%9C%E7%94%B7
+错误url : https://baike.baidu.com/item/NineMuses>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:NineMuses:https://baike.baidu.com/item/NineMuses
+错误url : https://baike.baidu.com/item/MishaCollins>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:MishaCollins:https://baike.baidu.com/item/MishaCollins
+错误url : https://baike.baidu.com/item/%E5%BE%90%E5%94%AF>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐唯:https://baike.baidu.com/item/%E5%BE%90%E5%94%AF
+错误url : https://baike.baidu.com/item/%E5%BE%90%E6%B5%B7%E4%B8%BA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐海为:https://baike.baidu.com/item/%E5%BE%90%E6%B5%B7%E4%B8%BA
+错误url : https://baike.baidu.com/item/%E5%BE%90%E8%B4%A4>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐贤:https://baike.baidu.com/item/%E5%BE%90%E8%B4%A4
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E5%BE%81%E6%A1%93>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李征桓:https://baike.baidu.com/item/%E6%9D%8E%E5%BE%81%E6%A1%93
+错误url : https://baike.baidu.com/item/%E6%A2%81%E5%A4%A7%E7%BB%B4>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:梁大维:https://baike.baidu.com/item/%E6%A2%81%E5%A4%A7%E7%BB%B4
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E6%9E%97%E7%94%B1%E4%BE%9D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:小林由依:https://baike.baidu.com/item/%E5%B0%8F%E6%9E%97%E7%94%B1%E4%BE%9D
+错误url : https://baike.baidu.com/item/%E9%87%91%E7%BE%8E%E4%BC%B6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:金美伶:https://baike.baidu.com/item/%E9%87%91%E7%BE%8E%E4%BC%B6
+错误url : https://baike.baidu.com/item/%E8%87%A7%E4%B8%80%E4%BA%BA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:臧一人:https://baike.baidu.com/item/%E8%87%A7%E4%B8%80%E4%BA%BA
+错误url : https://baike.baidu.com/item/%E8%92%8B%E6%A2%A6%E5%A9%95>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:蒋梦婕:https://baike.baidu.com/item/%E8%92%8B%E6%A2%A6%E5%A9%95
+错误url : https://baike.baidu.com/item/%E5%B7%B4%E9%9F%B3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:巴音:https://baike.baidu.com/item/%E5%B7%B4%E9%9F%B3
+错误url : https://baike.baidu.com/item/%E9%A1%BB%E8%97%A4%E5%87%9B%E5%87%9B%E8%8A%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:须藤凛凛花:https://baike.baidu.com/item/%E9%A1%BB%E8%97%A4%E5%87%9B%E5%87%9B%E8%8A%B1
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E7%91%9E>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:张瑞:https://baike.baidu.com/item/%E5%BC%A0%E7%91%9E
+错误url : https://baike.baidu.com/item/%E9%83%91%E5%AE%87>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:郑宇:https://baike.baidu.com/item/%E9%83%91%E5%AE%87
+错误url : https://baike.baidu.com/item/%E5%90%B4%E8%BF%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:吴迪:https://baike.baidu.com/item/%E5%90%B4%E8%BF%AA
+错误url : https://baike.baidu.com/item/%E5%B8%B8%E6%96%8C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:常斌:https://baike.baidu.com/item/%E5%B8%B8%E6%96%8C
+错误url : https://baike.baidu.com/item/%E5%88%98%E4%BA%9B%E5%AE%81>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:刘些宁:https://baike.baidu.com/item/%E5%88%98%E4%BA%9B%E5%AE%81
+错误url : https://baike.baidu.com/item/%E5%82%85%E9%9D%99%E6%B7%8B>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:傅静淋:https://baike.baidu.com/item/%E5%82%85%E9%9D%99%E6%B7%8B
+错误url : https://baike.baidu.com/item/%E4%BA%8E%E8%8D%A3%E5%85%89>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:于荣光:https://baike.baidu.com/item/%E4%BA%8E%E8%8D%A3%E5%85%89
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E8%81%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李聪:https://baike.baidu.com/item/%E6%9D%8E%E8%81%AA
+错误url : https://baike.baidu.com/item/%E7%84%A6%E6%81%A9%E4%BF%8A>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:焦恩俊:https://baike.baidu.com/item/%E7%84%A6%E6%81%A9%E4%BF%8A
+错误url : https://baike.baidu.com/item/%E9%99%88%E6%99%BA%E7%86%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈智熙:https://baike.baidu.com/item/%E9%99%88%E6%99%BA%E7%86%99
+错误url : https://baike.baidu.com/item/%E6%9C%B4%E6%B4%AE%E4%BF%8A>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:朴洮俊:https://baike.baidu.com/item/%E6%9C%B4%E6%B4%AE%E4%BF%8A
+错误url : https://baike.baidu.com/item/%E9%99%88%E6%98%8A%E5%AE%87>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈昊宇:https://baike.baidu.com/item/%E9%99%88%E6%98%8A%E5%AE%87
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E4%BC%8A%E4%BF%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:马伊俐:https://baike.baidu.com/item/%E9%A9%AC%E4%BC%8A%E4%BF%90
+错误url : https://baike.baidu.com/item/MachineGunKelly>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:MachineGunKelly:https://baike.baidu.com/item/MachineGunKelly
+错误url : https://baike.baidu.com/item/%E6%9C%B4%E5%AE%B0%E8%8C%83>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:朴宰范:https://baike.baidu.com/item/%E6%9C%B4%E5%AE%B0%E8%8C%83
+错误url : https://baike.baidu.com/item/%E6%9C%B4%E6%95%8F%E8%B5%AB>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:朴敏赫:https://baike.baidu.com/item/%E6%9C%B4%E6%95%8F%E8%B5%AB
+错误url : https://baike.baidu.com/item/%E5%8E%9F%E7%89%88sunshine>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:原版sunshine:https://baike.baidu.com/item/%E5%8E%9F%E7%89%88sunshine
+错误url : https://baike.baidu.com/item/%E5%BE%90%E6%80%80%E9%92%B0>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:徐怀钰:https://baike.baidu.com/item/%E5%BE%90%E6%80%80%E9%92%B0
+错误url : https://baike.baidu.com/item/%E8%83%A1%E9%9D%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:胡静:https://baike.baidu.com/item/%E8%83%A1%E9%9D%99
+错误url : https://baike.baidu.com/item/%E9%99%88%E9%93%AD>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈铭:https://baike.baidu.com/item/%E9%99%88%E9%93%AD
+错误url : https://baike.baidu.com/item/%E5%90%B4%E6%82%A6%E5%BD%A4>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:吴悦彤:https://baike.baidu.com/item/%E5%90%B4%E6%82%A6%E5%BD%A4
+错误url : https://baike.baidu.com/item/%E7%94%98%E9%9C%B2>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:甘露:https://baike.baidu.com/item/%E7%94%98%E9%9C%B2
+错误url : https://baike.baidu.com/item/%E5%90%91%E5%8D%8E>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:向华:https://baike.baidu.com/item/%E5%90%91%E5%8D%8E
+错误url : https://baike.baidu.com/item/%E5%AD%99%E7%BB%8D%E9%BE%99>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:孙绍龙:https://baike.baidu.com/item/%E5%AD%99%E7%BB%8D%E9%BE%99
+错误url : https://baike.baidu.com/item/%E8%BF%9E%E5%A5%95%E5%90%8D>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:连奕名:https://baike.baidu.com/item/%E8%BF%9E%E5%A5%95%E5%90%8D
+错误url : https://baike.baidu.com/item/%E5%B1%B1%E6%9C%AC%E5%8D%83%E5%AF%BB>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:山本千寻:https://baike.baidu.com/item/%E5%B1%B1%E6%9C%AC%E5%8D%83%E5%AF%BB
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E5%8D%97%E5%85%89%E5%8F%B8>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:小南光司:https://baike.baidu.com/item/%E5%B0%8F%E5%8D%97%E5%85%89%E5%8F%B8
+错误url : https://baike.baidu.com/item/%E9%99%88%E5%A6%8D%E5%B8%8C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈妍希:https://baike.baidu.com/item/%E9%99%88%E5%A6%8D%E5%B8%8C
+错误url : https://baike.baidu.com/item/%E7%8E%8B%E5%A4%A9%E8%BE%B0aaron>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:王天辰aaron:https://baike.baidu.com/item/%E7%8E%8B%E5%A4%A9%E8%BE%B0aaron
+错误url : https://baike.baidu.com/item/Astro%E6%9C%B4%E6%95%8F%E8%B5%AB>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:Astro朴敏赫:https://baike.baidu.com/item/Astro%E6%9C%B4%E6%95%8F%E8%B5%AB
+错误url : https://baike.baidu.com/item/MINHYUK>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:MINHYUK:https://baike.baidu.com/item/MINHYUK
+错误url : https://baike.baidu.com/item/%E6%9F%BF%E5%B4%8E%E8%8A%BD%E5%AE%9F>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:柿崎芽実:https://baike.baidu.com/item/%E6%9F%BF%E5%B4%8E%E8%8A%BD%E5%AE%9F
+错误url : https://baike.baidu.com/item/%E5%AE%AB%E6%AD%A3%E6%A5%A0>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:宫正楠:https://baike.baidu.com/item/%E5%AE%AB%E6%AD%A3%E6%A5%A0
+错误url : https://baike.baidu.com/item/%E9%99%88%E6%A2%A6%E7%91%B6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈梦瑶:https://baike.baidu.com/item/%E9%99%88%E6%A2%A6%E7%91%B6
+错误url : https://baike.baidu.com/item/rubin%E6%9D%8E%E5%A8%84%E5%BD%AC>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:rubin李娄彬:https://baike.baidu.com/item/rubin%E6%9D%8E%E5%A8%84%E5%BD%AC
+错误url : https://baike.baidu.com/item/%E4%B8%87%E4%B8%BD%E5%A8%9C>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:万丽娜:https://baike.baidu.com/item/%E4%B8%87%E4%B8%BD%E5%A8%9C
+错误url : https://baike.baidu.com/item/%E9%9F%A9%E6%A0%8B>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:韩栋:https://baike.baidu.com/item/%E9%9F%A9%E6%A0%8B
+错误url : https://baike.baidu.com/item/onf%E6%B2%88%E8%BD%BD%E8%8B%B1>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:onf沈载英:https://baike.baidu.com/item/onf%E6%B2%88%E8%BD%BD%E8%8B%B1
+错误url : https://baike.baidu.com/item/%E5%A6%BB%E5%A4%AB%E6%9C%A8%E8%81%AA>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:妻夫木聪:https://baike.baidu.com/item/%E5%A6%BB%E5%A4%AB%E6%9C%A8%E8%81%AA
+错误url : https://baike.baidu.com/item/%E5%98%89%E5%AE%B9>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:嘉容:https://baike.baidu.com/item/%E5%98%89%E5%AE%B9
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E4%BD%B3>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:李佳:https://baike.baidu.com/item/%E6%9D%8E%E4%BD%B3
+错误url : https://baike.baidu.com/item/%E9%BB%84%E7%A3%8A>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:黄磊:https://baike.baidu.com/item/%E9%BB%84%E7%A3%8A
+错误url : https://baike.baidu.com/item/%E4%BB%A3%E6%98%8A%E6%9E%97>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:代昊林:https://baike.baidu.com/item/%E4%BB%A3%E6%98%8A%E6%9E%97
+错误url : https://baike.baidu.com/item/%E5%B8%8C%E4%BE%83>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:希侃:https://baike.baidu.com/item/%E5%B8%8C%E4%BE%83
+错误url : https://baike.baidu.com/item/%E9%99%88%E8%B5%AB>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:陈赫:https://baike.baidu.com/item/%E9%99%88%E8%B5%AB
+错误url : https://baike.baidu.com/item/%E8%B5%B5%E6%A5%9A%E7%BA%B6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:赵楚纶:https://baike.baidu.com/item/%E8%B5%B5%E6%A5%9A%E7%BA%B6
+错误url : https://baike.baidu.com/item/%E8%A2%81%E9%83%A1%E6%A2%85>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:袁郡梅:https://baike.baidu.com/item/%E8%A2%81%E9%83%A1%E6%A2%85
+错误url : https://baike.baidu.com/item/%E6%9C%AB%E5%AD%90>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:末子:https://baike.baidu.com/item/%E6%9C%AB%E5%AD%90
+错误url : https://baike.baidu.com/item/%E5%88%98%E4%BD%A9%E7%90%A6>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:刘佩琦:https://baike.baidu.com/item/%E5%88%98%E4%BD%A9%E7%90%A6
+错误url : https://baike.baidu.com/item/gookju>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+明星url_load失败:gookju:https://baike.baidu.com/item/gookju
+错误url : https://baike.baidu.com/item/ShayMitchell>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
+                                                                             错误url : https://baike.baidu.com/item/%E5%B0%8F%E7%99%BE%E7%81%B5/19849443>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：王萌黎_9>----->https://baike.baidu.com/item/%E5%B0%8F%E7%99%BE%E7%81%B5/19849443
+错误url : https://baike.baidu.com/item/%E7%89%B9%E6%AE%8A%E4%BA%89%E5%A4%BA/821092>----->The read operation timed out
+movie_url load 失败：刘冠翔_21>----->https://baike.baidu.com/item/%E7%89%B9%E6%AE%8A%E4%BA%89%E5%A4%BA/821092
+错误url : https://baike.baidu.com/item/%E5%AF%B9%E6%89%8B/7430298>----->The read operation timed out
+movie_url load 失败：刘冠翔_22>----->https://baike.baidu.com/item/%E5%AF%B9%E6%89%8B/7430298
+错误url : https://baike.baidu.com/item/%E5%8A%9F%E5%A4%AB%E4%B9%BE%E9%9A%86/6172642>----->The read operation timed out
+movie_url load 失败：马敬涵_11>----->https://baike.baidu.com/item/%E5%8A%9F%E5%A4%AB%E4%B9%BE%E9%9A%86/6172642
+错误url : https://baike.baidu.com/item/%E8%B0%88%E8%B0%88%E5%BF%83%E6%81%8B%E6%81%8B%E7%88%B1/10834753>----->The read operation timed out
+movie_url load 失败：马敬涵_32>----->https://baike.baidu.com/item/%E8%B0%88%E8%B0%88%E5%BF%83%E6%81%8B%E6%81%8B%E7%88%B1/10834753
+错误url : https://baike.baidu.com/item/%E6%80%8E%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BD%A0/1246947>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：马敬涵_33>----->https://baike.baidu.com/item/%E6%80%8E%E8%83%BD%E5%A4%B1%E5%8E%BB%E4%BD%A0/1246947
+错误url : https://baike.baidu.com/item/%E5%85%A8%E6%B0%91k%E6%AD%8C>----->The read operation timed out
+明星url_load失败:全民k歌:https://baike.baidu.com/item/%E5%85%A8%E6%B0%91k%E6%AD%8C
+错误url : https://baike.baidu.com/item/%E8%BE%A3%E8%AD%A6%E9%9C%B8%E7%8E%8B%E8%8A%B1>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：岑丽香_1>----->https://baike.baidu.com/item/%E8%BE%A3%E8%AD%A6%E9%9C%B8%E7%8E%8B%E8%8A%B1
+错误url : https://baike.baidu.com/item/%E5%8A%B2%E6%8A%BD%E7%A6%8F%E7%A6%84%E5%AF%BF>----->The read operation timed out
+movie_url load 失败：岑丽香_4>----->https://baike.baidu.com/item/%E5%8A%B2%E6%8A%BD%E7%A6%8F%E7%A6%84%E5%AF%BF
+错误url : https://baike.baidu.com/item/%E4%BF%9D%E7%95%99/5803708>----->The read operation timed out
+movie_url load 失败：唐嫣_11>----->https://baike.baidu.com/item/%E4%BF%9D%E7%95%99/5803708
+错误url : https://baike.baidu.com/item/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/14492163>----->The read operation timed out
+movie_url load 失败：唐嫣_25>----->https://baike.baidu.com/item/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/14492163
+错误url : https://baike.baidu.com/item/%E6%B4%BB%E8%89%B2%E7%94%9F%E9%A6%99/13133563>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：唐嫣_26>----->https://baike.baidu.com/item/%E6%B4%BB%E8%89%B2%E7%94%9F%E9%A6%99/13133563
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E7%94%B0%E8%BF%9B%E5%9F%8E/6712610>----->The read operation timed out
+movie_url load 失败：关晓彤_89>----->https://baike.baidu.com/item/%E5%B0%8F%E7%94%B0%E8%BF%9B%E5%9F%8E/6712610
+错误url : https://baike.baidu.com/item/%E8%AE%A9%E7%88%B1%E9%87%8D%E6%9D%A5/16010>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：宋晓英_39>----->https://baike.baidu.com/item/%E8%AE%A9%E7%88%B1%E9%87%8D%E6%9D%A5/16010
+错误url : https://baike.baidu.com/item/%E8%8A%B1%E6%98%AF%E7%88%B1>----->The read operation timed out
+movie_url load 失败：陈势安_1>----->https://baike.baidu.com/item/%E8%8A%B1%E6%98%AF%E7%88%B1
+错误url : https://baike.baidu.com/item/%E5%90%B4%E8%BF%AA>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:吴迪:https://baike.baidu.com/item/%E5%90%B4%E8%BF%AA
+错误url : https://baike.baidu.com/item/%E5%B8%B8%E6%96%8C>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:常斌:https://baike.baidu.com/item/%E5%B8%B8%E6%96%8C
+错误url : https://baike.baidu.com/item/%E5%86%A5%E7%8E%8B>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：于荣光_93>----->https://baike.baidu.com/item/%E5%86%A5%E7%8E%8B
+错误url : https://baike.baidu.com/item/%E7%AC%91%E7%BA%A2%E9%A2%9C/8172047>----->The read operation timed out
+movie_url load 失败：胡静_7>----->https://baike.baidu.com/item/%E7%AC%91%E7%BA%A2%E9%A2%9C/8172047
+错误url : https://baike.baidu.com/item/%E9%99%88%E9%93%AD>----->The read operation timed out
+明星url_load失败:陈铭:https://baike.baidu.com/item/%E9%99%88%E9%93%AD
+错误url : https://baike.baidu.com/item/%E5%A4%A9%E5%A4%A9%E6%83%B3%E4%BD%A0/15516341>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：韩栋_15>----->https://baike.baidu.com/item/%E5%A4%A9%E5%A4%A9%E6%83%B3%E4%BD%A0/15516341
+错误url : https://baike.baidu.com/item/1991>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：刘佩琦_100>----->https://baike.baidu.com/item/1991
+错误url : https://baike.baidu.com/item/%E6%9F%B3%E7%BF%B0%E5%BA%87ryuhanbee>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:柳翰庇ryuhanbee:https://baike.baidu.com/item/%E6%9F%B3%E7%BF%B0%E5%BA%87ryuhanbee
+错误url : https://baike.baidu.com/item/%E5%86%A4%E5%AE%B6%E5%AE%9C%E7%BB%93%E4%B8%8D%E5%AE%9C%E8%A7%A3/2365416>----->The read operation timed out
+movie_url load 失败：郭可盈_27>----->https://baike.baidu.com/item/%E5%86%A4%E5%AE%B6%E5%AE%9C%E7%BB%93%E4%B8%8D%E5%AE%9C%E8%A7%A3/2365416
+错误url : https://baike.baidu.com/item/%E4%B8%80%E4%B8%9D%E7%9A%84%E7%BA%AF%E6%83%85>----->The read operation timed out
+movie_url load 失败：INFINITE_9>----->https://baike.baidu.com/item/%E4%B8%80%E4%B8%9D%E7%9A%84%E7%BA%AF%E6%83%85
+错误url : https://baike.baidu.com/item/%E5%85%83%E7%A6%84%E7%BC%AD%E4%B9%B1/4498819>----->The read operation timed out
+movie_url load 失败：泷泽秀明_24>----->https://baike.baidu.com/item/%E5%85%83%E7%A6%84%E7%BC%AD%E4%B9%B1/4498819
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E6%99%9E%E4%B8%B4>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:张晞临:https://baike.baidu.com/item/%E5%BC%A0%E6%99%9E%E4%B8%B4
+错误url : https://baike.baidu.com/item/%E5%A4%A9%E9%BB%91%E8%AF%B7%E9%97%AD%E7%9C%BC>----->The read operation timed out
+movie_url load 失败：李小冉_71>----->https://baike.baidu.com/item/%E5%A4%A9%E9%BB%91%E8%AF%B7%E9%97%AD%E7%9C%BC
+错误url : https://baike.baidu.com/item/%E6%8A%A5%E5%BA%94>----->The read operation timed out
+movie_url load 失败：黄秋生_10>----->https://baike.baidu.com/item/%E6%8A%A5%E5%BA%94
+错误url : https://baike.baidu.com/item/%E7%88%B1%E6%9C%89%E6%98%8E%E5%A4%A9>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：陈秀雯_22>----->https://baike.baidu.com/item/%E7%88%B1%E6%9C%89%E6%98%8E%E5%A4%A9
+错误url : https://baike.baidu.com/item/%E5%B4%94%E6%89%BF%E8%B5%AB>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:崔承赫:https://baike.baidu.com/item/%E5%B4%94%E6%89%BF%E8%B5%AB
+错误url : https://baike.baidu.com/item/%E6%AD%8C%E9%AD%82/1399756>----->The read operation timed out
+movie_url load 失败：三吉彩花_6>----->https://baike.baidu.com/item/%E6%AD%8C%E9%AD%82/1399756
+错误url : https://baike.baidu.com/item/S.COUPS%E5%B4%94%E8%83%9C%E6%BE%88>----->The read operation timed out
+明星url_load失败:S.COUPS崔胜澈:https://baike.baidu.com/item/S.COUPS%E5%B4%94%E8%83%9C%E6%BE%88
+错误url : https://baike.baidu.com/item/%E7%88%B1%E5%BE%97%E5%A5%BD/12675403>----->The read operation timed out
+movie_url load 失败：全昭旻_13>----->https://baike.baidu.com/item/%E7%88%B1%E5%BE%97%E5%A5%BD/12675403
+错误url : https://baike.baidu.com/item/%E6%8A%A4%E5%9B%BD%E5%86%9B%E9%AD%82%E4%BC%A0%E5%A5%87/988118>----->The read operation timed out
+movie_url load 失败：王力可_26>----->https://baike.baidu.com/item/%E6%8A%A4%E5%9B%BD%E5%86%9B%E9%AD%82%E4%BC%A0%E5%A5%87/988118
+错误url : https://baike.baidu.com/item/%E8%93%9D%E7%87%95>----->The read operation timed out
+明星url_load失败:蓝燕:https://baike.baidu.com/item/%E8%93%9D%E7%87%95
+错误url : https://baike.baidu.com/item/%E7%BE%8E%E4%BA%BA%E5%A4%A9%E4%B8%8B>----->The read operation timed out
+movie_url load 失败：张庭_8>----->https://baike.baidu.com/item/%E7%BE%8E%E4%BA%BA%E5%A4%A9%E4%B8%8B
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E6%8D%95>----->The read operation timed out
+movie_url load 失败：张庭_27>----->https://baike.baidu.com/item/%E7%A5%9E%E6%8D%95
+错误url : https://baike.baidu.com/item/%E6%88%91%E5%9C%A8%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%9A%84%E6%97%A5%E5%AD%90>----->The read operation timed out
+movie_url load 失败：范文芳_48>----->https://baike.baidu.com/item/%E6%88%91%E5%9C%A8%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%9A%84%E6%97%A5%E5%AD%90
+错误url : https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93/13778815>----->The read operation timed out
+movie_url load 失败：绫濑遥_59>----->https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93/13778815
+错误url : https://baike.baidu.com/item/%E5%AE%A2%E4%B8%B2>----->The read operation timed out
+movie_url load 失败：蔡函岑_18>----->https://baike.baidu.com/item/%E5%AE%A2%E4%B8%B2
+错误url : https://baike.baidu.com/item/%E5%86%AF%E5%B0%8F%E5%AE%81>----->Remote end closed connection without response
+movie_url load 失败：胡亚捷_53>----->https://baike.baidu.com/item/%E5%86%AF%E5%B0%8F%E5%AE%81
+错误url : https://baike.baidu.com/item/%E7%8E%8B%E5%90%9B%E6%AD%A3>----->The read operation timed out
+movie_url load 失败：胡亚捷_57>----->https://baike.baidu.com/item/%E7%8E%8B%E5%90%9B%E6%AD%A3
+错误url : https://baike.baidu.com/item/%E5%AD%A4%E7%8B%AC/2186079>----->The read operation timed out
+movie_url load 失败：申智秀_10>----->https://baike.baidu.com/item/%E5%AD%A4%E7%8B%AC/2186079
+错误url : https://baike.baidu.com/item/%E4%BD%95%E6%AC%A2>----->The read operation timed out
+明星url_load失败:何欢:https://baike.baidu.com/item/%E4%BD%95%E6%AC%A2
+错误url : https://baike.baidu.com/item/%E7%9C%9F%E7%88%B1%E6%89%BE%E9%BA%BB%E7%83%A6/943759>----->The read operation timed out
+movie_url load 失败：吴慷仁_18>----->https://baike.baidu.com/item/%E7%9C%9F%E7%88%B1%E6%89%BE%E9%BA%BB%E7%83%A6/943759
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E8%96%B0%E9%BB%84%E7%80%9E%E6%80%A1>----->The read operation timed out
+明星url_load失败:小薰黄瀞怡:https://baike.baidu.com/item/%E5%B0%8F%E8%96%B0%E9%BB%84%E7%80%9E%E6%80%A1
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E7%94%B7%E5%AD%A9>----->The read operation timed out
+movie_url load 失败：吕珍九_14>----->https://baike.baidu.com/item/%E5%B0%8F%E7%94%B7%E5%AD%A9
+错误url : https://baike.baidu.com/item/%E6%82%B2%E4%BC%A4%E7%94%B5%E5%BD%B1/4862286>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：吕珍九_15>----->https://baike.baidu.com/item/%E6%82%B2%E4%BC%A4%E7%94%B5%E5%BD%B1/4862286
+错误url : https://baike.baidu.com/item/%E5%86%8D%E6%AC%A1%E7%9B%B8%E9%81%87%E7%9A%84%E4%B8%96%E7%95%8C/20726913>----->The read operation timed out
+movie_url load 失败：吕珍九_16>----->https://baike.baidu.com/item/%E5%86%8D%E6%AC%A1%E7%9B%B8%E9%81%87%E7%9A%84%E4%B8%96%E7%95%8C/20726913
+错误url : https://baike.baidu.com/item/%E6%97%A0%E5%BD%B1%E7%81%AF%E4%B8%8B/6315421>----->The read operation timed out
+movie_url load 失败：张歆艺_19>----->https://baike.baidu.com/item/%E6%97%A0%E5%BD%B1%E7%81%AF%E4%B8%8B/6315421
+错误url : https://baike.baidu.com/item/%E6%80%BB%E7%90%86%E5%92%8C%E6%88%91>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：李凡秀_3>----->https://baike.baidu.com/item/%E6%80%BB%E7%90%86%E5%92%8C%E6%88%91
+错误url : https://baike.baidu.com/item/%E4%BB%81%E5%8C%BB>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：李凡秀_5>----->https://baike.baidu.com/item/%E4%BB%81%E5%8C%BB
+错误url : https://baike.baidu.com/item/2009>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：毛方圆_16>----->https://baike.baidu.com/item/2009
+错误url : https://baike.baidu.com/item/%E5%8D%9C%E5%86%A0%E4%BB%8A>----->The read operation timed out
+明星url_load失败:卜冠今:https://baike.baidu.com/item/%E5%8D%9C%E5%86%A0%E4%BB%8A
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E5%AE%8F%E9%95%87>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:李宏镇:https://baike.baidu.com/item/%E6%9D%8E%E5%AE%8F%E9%95%87
+错误url : https://baike.baidu.com/item/%E6%B5%B7%E9%AD%82>----->The read operation timed out
+movie_url load 失败：吕夏_15>----->https://baike.baidu.com/item/%E6%B5%B7%E9%AD%82
+错误url : https://baike.baidu.com/item/%E9%83%AD%E5%B3%B0/2566907>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：欧阳佩珊_72>----->https://baike.baidu.com/item/%E9%83%AD%E5%B3%B0/2566907
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E7%91%9B/3500>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：欧阳佩珊_73>----->https://baike.baidu.com/item/%E5%BC%A0%E7%91%9B/3500
+错误url : https://baike.baidu.com/item/%E9%9D%92%E4%B8%98%E7%8B%90%E4%BC%A0%E8%AF%B4/16766483>----->The read operation timed out
+movie_url load 失败：古力娜扎_9>----->https://baike.baidu.com/item/%E9%9D%92%E4%B8%98%E7%8B%90%E4%BC%A0%E8%AF%B4/16766483
+错误url : https://baike.baidu.com/item/%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB/7732324>----->The read operation timed out
+movie_url load 失败：炎亚纶_18>----->https://baike.baidu.com/item/%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB/7732324
+错误url : https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E4%B8%87%E4%B8%87%E7%A2%8E>----->The read operation timed out
+show_url load 失败：欧豪_30>----->https://baike.baidu.com/item/%E5%81%B6%E5%83%8F%E4%B8%87%E4%B8%87%E7%A2%8E
+错误url : https://baike.baidu.com/item/CCTV1>----->The read operation timed out
+show_url load 失败：欧豪_35>----->https://baike.baidu.com/item/CCTV1
+错误url : https://baike.baidu.com/item/CCTV1>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：欧豪_56>----->https://baike.baidu.com/item/CCTV1
+错误url : https://baike.baidu.com/item/%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%B0%8F%E5%AD%A9>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：易烊千玺_37>----->https://baike.baidu.com/item/%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%B0%8F%E5%AD%A9
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E7%8A%AC%E5%B0%8F%E4%B8%832/18340154>----->The read operation timed out
+movie_url load 失败：苗驰_9>----->https://baike.baidu.com/item/%E7%A5%9E%E7%8A%AC%E5%B0%8F%E4%B8%832/18340154
+错误url : https://baike.baidu.com/item/%E5%AE%89%E4%B8%9C%E5%B0%BC>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：巩峥_26>----->https://baike.baidu.com/item/%E5%AE%89%E4%B8%9C%E5%B0%BC
+错误url : https://baike.baidu.com/item/%E4%B8%A4%E4%B8%AA%E9%97%A8%E7%89%8C%E4%B8%80%E4%B8%AA%E5%AE%B6/2679844>----->The read operation timed out
+movie_url load 失败：陈亦飞_20>----->https://baike.baidu.com/item/%E4%B8%A4%E4%B8%AA%E9%97%A8%E7%89%8C%E4%B8%80%E4%B8%AA%E5%AE%B6/2679844
+错误url : https://baike.baidu.com/item/%E9%87%91%E6%98%9F%E6%92%9E%E7%81%AB%E6%98%9F>----->The read operation timed out
+show_url load 失败：金星_159>----->https://baike.baidu.com/item/%E9%87%91%E6%98%9F%E6%92%9E%E7%81%AB%E6%98%9F
+错误url : https://baike.baidu.com/item/%E5%BE%90%E8%89%BA%E6%B4%8B>----->Remote end closed connection without response
+明星url_load失败:徐艺洋:https://baike.baidu.com/item/%E5%BE%90%E8%89%BA%E6%B4%8B
+错误url : https://baike.baidu.com/item/%E4%BD%B3%E6%9C%9F%E5%A6%82%E6%A2%A6>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：路晨_12>----->https://baike.baidu.com/item/%E4%BD%B3%E6%9C%9F%E5%A6%82%E6%A2%A6
+错误url : https://baike.baidu.com/item/%E9%87%8E%E7%99%BE%E5%90%88%E4%B9%9F%E6%9C%89%E6%98%A5%E5%A4%A9>----->The read operation timed out
+movie_url load 失败：谢孟伟_37>----->https://baike.baidu.com/item/%E9%87%8E%E7%99%BE%E5%90%88%E4%B9%9F%E6%9C%89%E6%98%A5%E5%A4%A9
+错误url : https://baike.baidu.com/item/%E5%8C%97%E5%A4%A7%E8%B7%AF%E6%AC%A3%E4%B9%9F>----->The read operation timed out
+movie_url load 失败：斋藤工_13>----->https://baike.baidu.com/item/%E5%8C%97%E5%A4%A7%E8%B7%AF%E6%AC%A3%E4%B9%9F
+错误url : https://baike.baidu.com/item/%E4%BA%94%E5%A5%B3%E9%97%B9%E4%BA%AC%E5%9F%8E/18987404>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：刘帅良_12>----->https://baike.baidu.com/item/%E4%BA%94%E5%A5%B3%E9%97%B9%E4%BA%AC%E5%9F%8E/18987404
+错误url : https://baike.baidu.com/item/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A3%AB%E5%85%B5%E7%9A%84%E6%95%85%E4%BA%8B>----->The read operation timed out
+movie_url load 失败：顾宇峰_10>----->https://baike.baidu.com/item/%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A3%AB%E5%85%B5%E7%9A%84%E6%95%85%E4%BA%8B
+错误url : https://baike.baidu.com/item/%E5%AE%A2%E4%B8%B2>----->The read operation timed out
+movie_url load 失败：顾宇峰_11>----->https://baike.baidu.com/item/%E5%AE%A2%E4%B8%B2
+错误url : https://baike.baidu.com/item/%E7%BA%A2%E7%8E%AB%E7%91%B0%E9%BB%91%E7%8E%AB%E7%91%B0/2232283>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：王姬_19>----->https://baike.baidu.com/item/%E7%BA%A2%E7%8E%AB%E7%91%B0%E9%BB%91%E7%8E%AB%E7%91%B0/2232283
+错误url : https://baike.baidu.com/item/%E6%9C%89%E4%BA%BA%E5%81%8F%E5%81%8F%E7%88%B1%E4%B8%8A%E6%88%91>----->The read operation timed out
+movie_url load 失败：王斑_4>----->https://baike.baidu.com/item/%E6%9C%89%E4%BA%BA%E5%81%8F%E5%81%8F%E7%88%B1%E4%B8%8A%E6%88%91
+错误url : https://baike.baidu.com/item/%E6%B2%A7%E6%B5%B7%E8%8B%B1%E9%9B%84/6744375>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：王斑_24>----->https://baike.baidu.com/item/%E6%B2%A7%E6%B5%B7%E8%8B%B1%E9%9B%84/6744375
+错误url : https://baike.baidu.com/item/%E5%A7%90%E6%98%AF%E6%B5%AA%E6%BC%AB%E6%80%A7%E6%83%85%E4%BA%BA/14894784>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：郭晓东_7>----->https://baike.baidu.com/item/%E5%A7%90%E6%98%AF%E6%B5%AA%E6%BC%AB%E6%80%A7%E6%83%85%E4%BA%BA/14894784
+错误url : https://baike.baidu.com/item/%E5%AD%99%E7%9A%93>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：车晓_7>----->https://baike.baidu.com/item/%E5%AD%99%E7%9A%93
+错误url : https://baike.baidu.com/item/%E4%BA%AB%E5%8F%97%E4%BB%8A%E5%A4%A9>----->The read operation timed out
+show_url load 失败：银赫_95>----->https://baike.baidu.com/item/%E4%BA%AB%E5%8F%97%E4%BB%8A%E5%A4%A9
+错误url : https://baike.baidu.com/item/%E5%8E%89%E6%97%AD>----->The read operation timed out
+show_url load 失败：银赫_122>----->https://baike.baidu.com/item/%E5%8E%89%E6%97%AD
+错误url : https://baike.baidu.com/item/%E6%99%9F%E6%95%8F>----->The read operation timed out
+show_url load 失败：银赫_198>----->https://baike.baidu.com/item/%E6%99%9F%E6%95%8F
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：银赫_204>----->https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350
+错误url : https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：银赫_211>----->https://baike.baidu.com/item/%E7%A5%9E%E7%AB%A5/2688350
+错误url : https://baike.baidu.com/item/%E6%9F%B3%E7%86%99%E7%83%88%E7%9A%84%E5%86%99%E7%94%9F%E7%B0%BF>----->The read operation timed out
+show_url load 失败：车学沇_50>----->https://baike.baidu.com/item/%E6%9F%B3%E7%86%99%E7%83%88%E7%9A%84%E5%86%99%E7%94%9F%E7%B0%BF
+错误url : https://baike.baidu.com/item/%E5%9B%9E%E5%88%B0%E7%88%B1%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/5152420>----->The read operation timed out
+movie_url load 失败：刘诗诗_26>----->https://baike.baidu.com/item/%E5%9B%9E%E5%88%B0%E7%88%B1%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/5152420
+错误url : https://baike.baidu.com/item/%E9%93%B6%E8%B5%AB>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：李赫宰_5>----->https://baike.baidu.com/item/%E9%93%B6%E8%B5%AB
+错误url : https://baike.baidu.com/item/%E5%AE%BD%E6%81%95>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：许晴_26>----->https://baike.baidu.com/item/%E5%AE%BD%E6%81%95
+错误url : https://baike.baidu.com/item/%E6%B2%88%E6%B6%9B>----->The read operation timed out
+movie_url load 失败：黄小戈_5>----->https://baike.baidu.com/item/%E6%B2%88%E6%B6%9B
+错误url : https://baike.baidu.com/item/%E6%9B%B9%E8%8D%A3>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：黄小戈_13>----->https://baike.baidu.com/item/%E6%9B%B9%E8%8D%A3
+错误url : https://baike.baidu.com/item/%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：贺峻霖_1>----->https://baike.baidu.com/item/%E5%BF%AB%E4%B9%90%E5%A4%A7%E6%9C%AC%E8%90%A5
+错误url : https://baike.baidu.com/item/%E9%AB%98%E5%B0%94%E5%A4%AB%E6%81%8B%E4%BA%BA>----->The read operation timed out
+movie_url load 失败：金载沅_13>----->https://baike.baidu.com/item/%E9%AB%98%E5%B0%94%E5%A4%AB%E6%81%8B%E4%BA%BA
+错误url : https://baike.baidu.com/item/%E5%87%BA%E5%8F%91%E5%90%A7%E7%88%B1%E6%83%85>----->The read operation timed out
+show_url load 失败：谢楠_1>----->https://baike.baidu.com/item/%E5%87%BA%E5%8F%91%E5%90%A7%E7%88%B1%E6%83%85
+错误url : https://baike.baidu.com/item/Spark/19746505>----->The read operation timed out
+movie_url load 失败：李会泽_1>----->https://baike.baidu.com/item/Spark/19746505
+错误url : https://baike.baidu.com/item/%E6%8B%B3%E7%8E%8B%E9%98%BF%E9%87%8C/81162>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：威尔史密斯_18>----->https://baike.baidu.com/item/%E6%8B%B3%E7%8E%8B%E9%98%BF%E9%87%8C/81162
+错误url : https://baike.baidu.com/item/%E9%87%8D%E8%BF%94%E8%8D%A3%E8%80%80/2905861>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：威尔史密斯_19>----->https://baike.baidu.com/item/%E9%87%8D%E8%BF%94%E8%8D%A3%E8%80%80/2905861
+错误url : https://baike.baidu.com/item/%E6%AC%A7%E9%98%B3%E5%89%91%E5%B9%B3>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：刘琳_17>----->https://baike.baidu.com/item/%E6%AC%A7%E9%98%B3%E5%89%91%E5%B9%B3
+错误url : https://baike.baidu.com/item/%E7%BE%BD%E4%BD%8F%E8%8B%B1%E4%B8%80%E9%83%8E>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：瑛太_58>----->https://baike.baidu.com/item/%E7%BE%BD%E4%BD%8F%E8%8B%B1%E4%B8%80%E9%83%8E
+错误url : https://baike.baidu.com/item/%E9%98%BF%E7%BE%BF>----->The read operation timed out
+movie_url load 失败：张智霖_78>----->https://baike.baidu.com/item/%E9%98%BF%E7%BE%BF
+错误url : https://baike.baidu.com/item/%E5%9C%B0%E4%B8%8B%E9%93%81/7049056>----->The read operation timed out
+movie_url load 失败：克里斯蒂安贝尔_32>----->https://baike.baidu.com/item/%E5%9C%B0%E4%B8%8B%E9%93%81/7049056
+错误url : https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E7%88%B1%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98/13026735>----->The read operation timed out
+movie_url load 失败：申敏儿_2>----->https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E7%88%B1%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98/13026735
+错误url : https://baike.baidu.com/item/%E9%9D%92%E7%BA%A2/5892529>----->The read operation timed out
+movie_url load 失败：李滨_17>----->https://baike.baidu.com/item/%E9%9D%92%E7%BA%A2/5892529
+错误url : https://baike.baidu.com/item/%E4%B8%9B%E6%9E%97%E6%97%A0%E8%BE%B9/8606598>----->The read operation timed out
+movie_url load 失败：李滨_18>----->https://baike.baidu.com/item/%E4%B8%9B%E6%9E%97%E6%97%A0%E8%BE%B9/8606598
+错误url : https://baike.baidu.com/item/%E6%8A%93%E7%B4%A7%E6%97%B6%E9%97%B4%E7%88%B1/79805>----->The read operation timed out
+movie_url load 失败：魏大勋_17>----->https://baike.baidu.com/item/%E6%8A%93%E7%B4%A7%E6%97%B6%E9%97%B4%E7%88%B1/79805
+错误url : https://baike.baidu.com/item/%E4%BE%AF%E9%95%BF%E8%8D%A3>----->The read operation timed out
+明星url_load失败:侯长荣:https://baike.baidu.com/item/%E4%BE%AF%E9%95%BF%E8%8D%A3
+错误url : https://baike.baidu.com/item/%E7%BA%A2%E5%AD%A9%E5%84%BF>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：郭妃丽_19>----->https://baike.baidu.com/item/%E7%BA%A2%E5%AD%A9%E5%84%BF
+错误url : https://baike.baidu.com/item/%E6%88%B4%E6%B5%81%E8%8B%8F%E8%80%B3%E7%8E%AF%E7%9A%84%E5%B0%91%E5%A5%B3/16909640>----->The read operation timed out
+movie_url load 失败：何育骏_3>----->https://baike.baidu.com/item/%E6%88%B4%E6%B5%81%E8%8B%8F%E8%80%B3%E7%8E%AF%E7%9A%84%E5%B0%91%E5%A5%B3/16909640
+错误url : https://baike.baidu.com/item/%E7%A7%8B%E4%BA%91>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：赵文琪_16>----->https://baike.baidu.com/item/%E7%A7%8B%E4%BA%91
+错误url : https://baike.baidu.com/item/%E6%97%A0%E9%99%90%E6%AD%A3%E4%B9%89/2837670>----->The read operation timed out
+movie_url load 失败：王茜_27>----->https://baike.baidu.com/item/%E6%97%A0%E9%99%90%E6%AD%A3%E4%B9%89/2837670
+错误url : https://baike.baidu.com/item/HarryShumJr>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:HarryShumJr:https://baike.baidu.com/item/HarryShumJr
+错误url : https://baike.baidu.com/item/%E6%B1%9F%E6%B9%96%E5%B0%8F%E5%AD%90/6506916>----->The read operation timed out
+movie_url load 失败：伍卫国_42>----->https://baike.baidu.com/item/%E6%B1%9F%E6%B9%96%E5%B0%8F%E5%AD%90/6506916
+错误url : https://baike.baidu.com/item/%E6%9D%A8%E8%B4%B5%E5%A6%83/4807155>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：伍卫国_43>----->https://baike.baidu.com/item/%E6%9D%A8%E8%B4%B5%E5%A6%83/4807155
+错误url : https://baike.baidu.com/item/%E8%A2%81%E6%B4%81%E8%8E%B9>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：林俊贤_3>----->https://baike.baidu.com/item/%E8%A2%81%E6%B4%81%E8%8E%B9
+错误url : https://baike.baidu.com/item/1984>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：奚美娟_22>----->https://baike.baidu.com/item/1984
+错误url : https://baike.baidu.com/item/%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F/16989>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：苍井空_15>----->https://baike.baidu.com/item/%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F/16989
+错误url : https://baike.baidu.com/item/%E8%8A%B1%E6%97%A0%E7%BC%BA>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：林青霞_17>----->https://baike.baidu.com/item/%E8%8A%B1%E6%97%A0%E7%BC%BA
+错误url : https://baike.baidu.com/item/2008>----->The read operation timed out
+movie_url load 失败：傅颖_12>----->https://baike.baidu.com/item/2008
+错误url : https://baike.baidu.com/item/%E6%8A%93%E4%BD%8F%E9%82%A3%E4%B8%AA%E5%AE%B6%E4%BC%99/4047585>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：许廷恩_13>----->https://baike.baidu.com/item/%E6%8A%93%E4%BD%8F%E9%82%A3%E4%B8%AA%E5%AE%B6%E4%BC%99/4047585
+错误url : https://baike.baidu.com/item/%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B/10781203>----->The read operation timed out
+movie_url load 失败：贾青_35>----->https://baike.baidu.com/item/%E5%AF%BB%E4%BA%BA%E5%90%AF%E4%BA%8B/10781203
+错误url : https://baike.baidu.com/item/%E6%B8%A9%E6%9F%94%E7%9A%84%E8%83%8C%E5%8F%9B/7487267>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：贾青_36>----->https://baike.baidu.com/item/%E6%B8%A9%E6%9F%94%E7%9A%84%E8%83%8C%E5%8F%9B/7487267
+错误url : https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E6%A0%8B>----->The read operation timed out
+movie_url load 失败：王志文_39>----->https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E6%A0%8B
+错误url : https://baike.baidu.com/item/%E5%8F%B6%E5%B0%8F%E5%BC%80>----->The read operation timed out
+明星url_load失败:叶小开:https://baike.baidu.com/item/%E5%8F%B6%E5%B0%8F%E5%BC%80
+错误url : https://baike.baidu.com/item/%E4%B8%8D%E5%9C%A8%E7%8A%AF%E7%BD%AA%E7%8E%B0%E5%9C%BA>----->The read operation timed out
+movie_url load 失败：李崇霄_28>----->https://baike.baidu.com/item/%E4%B8%8D%E5%9C%A8%E7%8A%AF%E7%BD%AA%E7%8E%B0%E5%9C%BA
+错误url : https://baike.baidu.com/item/%E5%BB%BA%E5%85%9A%E4%BC%9F%E4%B8%9A>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：陈道明_3>----->https://baike.baidu.com/item/%E5%BB%BA%E5%85%9A%E4%BC%9F%E4%B8%9A
+错误url : https://baike.baidu.com/item/%E6%88%91%E4%BB%AC%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E9%9D%92%E6%98%A5/15561>----->The read operation timed out
+movie_url load 失败：陈道明_27>----->https://baike.baidu.com/item/%E6%88%91%E4%BB%AC%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E9%9D%92%E6%98%A5/15561
+错误url : https://baike.baidu.com/item/%E6%B8%B8%E4%BE%A0%E6%83%85>----->The read operation timed out
+movie_url load 失败：何家劲_82>----->https://baike.baidu.com/item/%E6%B8%B8%E4%BE%A0%E6%83%85
+错误url : https://baike.baidu.com/item/%E9%A3%8E%E8%BD%A6/10641205>----->The read operation timed out
+movie_url load 失败：李晨_20>----->https://baike.baidu.com/item/%E9%A3%8E%E8%BD%A6/10641205
+错误url : https://baike.baidu.com/item/%E6%8B%9C%E9%87%91%E5%A5%B3%E7%8E%8B/5085399>----->The read operation timed out
+movie_url load 失败：魏蔓_12>----->https://baike.baidu.com/item/%E6%8B%9C%E9%87%91%E5%A5%B3%E7%8E%8B/5085399
+错误url : https://baike.baidu.com/item/%E9%9C%B9%E9%9B%B3MIT>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：文雨非_13>----->https://baike.baidu.com/item/%E9%9C%B9%E9%9B%B3MIT
+错误url : https://baike.baidu.com/item/%E4%BA%94%E4%B8%AA%E9%86%92%E8%A7%89%E7%9A%84%E5%B0%91%E5%B9%B4/2193954>----->The read operation timed out
+movie_url load 失败：陈展鹏_53>----->https://baike.baidu.com/item/%E4%BA%94%E4%B8%AA%E9%86%92%E8%A7%89%E7%9A%84%E5%B0%91%E5%B9%B4/2193954
+错误url : https://baike.baidu.com/item/%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0/16723381>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：邵峰_1>----->https://baike.baidu.com/item/%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0/16723381
+错误url : https://baike.baidu.com/item/%E6%99%AE%E9%80%9A%E7%9A%84%E6%81%8B%E7%88%B1/3922411>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：延宇振_11>----->https://baike.baidu.com/item/%E6%99%AE%E9%80%9A%E7%9A%84%E6%81%8B%E7%88%B1/3922411
+错误url : https://baike.baidu.com/item/%E9%B9%8A%E6%A1%A5%E5%85%84%E5%BC%9F%E4%BB%AC/9183877>----->The read operation timed out
+movie_url load 失败：延宇振_12>----->https://baike.baidu.com/item/%E9%B9%8A%E6%A1%A5%E5%85%84%E5%BC%9F%E4%BB%AC/9183877
+错误url : https://baike.baidu.com/item/%E6%B0%B4%E7%90%83%E4%B8%8D%E8%89%AF%E5%B0%91%E5%B9%B4/15281359>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：中岛裕翔_6>----->https://baike.baidu.com/item/%E6%B0%B4%E7%90%83%E4%B8%8D%E8%89%AF%E5%B0%91%E5%B9%B4/15281359
+错误url : https://baike.baidu.com/item/%E5%8D%B3%E4%BD%BF%E5%BC%B1%E5%B0%8F%E4%B9%9F%E8%83%BD%E5%8F%96%E8%83%9C/13237871>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：中岛裕翔_7>----->https://baike.baidu.com/item/%E5%8D%B3%E4%BD%BF%E5%BC%B1%E5%B0%8F%E4%B9%9F%E8%83%BD%E5%8F%96%E8%83%9C/13237871
+错误url : https://baike.baidu.com/item/%E6%9C%B1%E6%A3%A3>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：唐国强_73>----->https://baike.baidu.com/item/%E6%9C%B1%E6%A3%A3
+错误url : https://baike.baidu.com/item/%E5%8D%88%E5%A4%9C%E8%AE%A1%E7%A8%8B%E8%BD%A6>----->The read operation timed out
+movie_url load 失败：徐黄丽_57>----->https://baike.baidu.com/item/%E5%8D%88%E5%A4%9C%E8%AE%A1%E7%A8%8B%E8%BD%A6
+错误url : https://baike.baidu.com/item/%E7%8E%89%E6%B5%B7%E6%A3%A0/17545049>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：王韬_2>----->https://baike.baidu.com/item/%E7%8E%89%E6%B5%B7%E6%A3%A0/17545049
+错误url : https://baike.baidu.com/item/%E4%B9%90%E7%BF%BB%E5%A4%A9/50742>----->The read operation timed out
+movie_url load 失败：杜海涛_21>----->https://baike.baidu.com/item/%E4%B9%90%E7%BF%BB%E5%A4%A9/50742
+错误url : https://baike.baidu.com/item/%E9%A9%AC%E5%85%8B%C2%B7%E8%80%90%E6%B2%83%E5%B0%94%E4%BB%A3>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：杰森斯坦森_21>----->https://baike.baidu.com/item/%E9%A9%AC%E5%85%8B%C2%B7%E8%80%90%E6%B2%83%E5%B0%94%E4%BB%A3
+错误url : https://baike.baidu.com/item/Frank%20Martin>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：杰森斯坦森_22>----->https://baike.baidu.com/item/Frank%20Martin
+错误url : https://baike.baidu.com/item/2011>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：桂纶镁_11>----->https://baike.baidu.com/item/2011
+错误url : https://baike.baidu.com/item/Nonstop%205>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：李玟雨_1>----->https://baike.baidu.com/item/Nonstop%205
+错误url : https://baike.baidu.com/item/%E7%A2%A7%E8%A1%80%E5%89%91>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：江华_13>----->https://baike.baidu.com/item/%E7%A2%A7%E8%A1%80%E5%89%91
+错误url : https://baike.baidu.com/item/%E4%B8%AD%E5%B1%B1%E4%BC%98%E9%A9%AC>----->The read operation timed out
+show_url load 失败：小関裕太_4>----->https://baike.baidu.com/item/%E4%B8%AD%E5%B1%B1%E4%BC%98%E9%A9%AC
+错误url : https://baike.baidu.com/item/%E5%B0%8F%E5%9F%8E%E5%A4%A7%E7%88%B1/5476474>----->The read operation timed out
+movie_url load 失败：严晓频_16>----->https://baike.baidu.com/item/%E5%B0%8F%E5%9F%8E%E5%A4%A7%E7%88%B1/5476474
+错误url : https://baike.baidu.com/item/%E6%9D%8E%E6%97%B6%E8%A8%80>----->The read operation timed out
+明星url_load失败:李时言:https://baike.baidu.com/item/%E6%9D%8E%E6%97%B6%E8%A8%80
+错误url : https://baike.baidu.com/item/%E6%98%9F%E5%8E%A8%E9%A9%BE%E5%88%B0>----->The read operation timed out
+show_url load 失败：石安妮_3>----->https://baike.baidu.com/item/%E6%98%9F%E5%8E%A8%E9%A9%BE%E5%88%B0
+错误url : https://baike.baidu.com/item/%E7%A5%9D%E5%90%9B%E6%97%A9%E5%AE%89>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：彭丹_42>----->https://baike.baidu.com/item/%E7%A5%9D%E5%90%9B%E6%97%A9%E5%AE%89
+错误url : https://baike.baidu.com/item/%E7%94%B5%E6%A2%AF%E6%83%8A%E9%AD%82/74018>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：周秀娜_21>----->https://baike.baidu.com/item/%E7%94%B5%E6%A2%AF%E6%83%8A%E9%AD%82/74018
+错误url : https://baike.baidu.com/item/%E7%8B%BC%E7%8B%88/4009188>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：水原希子_7>----->https://baike.baidu.com/item/%E7%8B%BC%E7%8B%88/4009188
+错误url : https://baike.baidu.com/item/%E5%AE%A3%E8%A8%80/7310404>----->The read operation timed out
+movie_url load 失败：谭凯_37>----->https://baike.baidu.com/item/%E5%AE%A3%E8%A8%80/7310404
+错误url : https://baike.baidu.com/item/%E6%8A%8A%E9%85%92%E9%97%AE%E9%9D%92%E5%A4%A9/5088424>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：吕良伟_83>----->https://baike.baidu.com/item/%E6%8A%8A%E9%85%92%E9%97%AE%E9%9D%92%E5%A4%A9/5088424
+错误url : https://baike.baidu.com/item/%E6%B5%81%E6%B5%AA%E8%88%9E%E5%8F%B0/4589348>----->The read operation timed out
+movie_url load 失败：郑家榆_27>----->https://baike.baidu.com/item/%E6%B5%81%E6%B5%AA%E8%88%9E%E5%8F%B0/4589348
+错误url : https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3%E7%9A%84%E9%81%97%E4%BA%A7/9848018>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：堺雅人_44>----->https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3%E7%9A%84%E9%81%97%E4%BA%A7/9848018
+错误url : https://baike.baidu.com/item/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD>----->The read operation timed out
+movie_url load 失败：李泰兰_16>----->https://baike.baidu.com/item/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD
+错误url : https://baike.baidu.com/item/%E9%87%91%E8%8B%B1%E7%88%B1/9017065>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：李泰兰_26>----->https://baike.baidu.com/item/%E9%87%91%E8%8B%B1%E7%88%B1/9017065
+错误url : https://baike.baidu.com/item/2015>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：董李无忧_13>----->https://baike.baidu.com/item/2015
+错误url : https://baike.baidu.com/item/%E6%83%85%E4%B9%A6/808197>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：黄正音_31>----->https://baike.baidu.com/item/%E6%83%85%E4%B9%A6/808197
+错误url : https://baike.baidu.com/item/%E7%B4%A7%E6%80%A5%E8%BF%AB%E9%99%8D>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load 失败：尤勇_14>----->https://baike.baidu.com/item/%E7%B4%A7%E6%80%A5%E8%BF%AB%E9%99%8D
+错误url : https://baike.baidu.com/item/%E9%9F%A6%E5%A4%A7%E5%86%9B>----->The read operation timed out
+movie_url load 失败：李梦男_27>----->https://baike.baidu.com/item/%E9%9F%A6%E5%A4%A7%E5%86%9B
+错误url : https://baike.baidu.com/item/%E5%AE%89%E8%B4%9E%E6%A1%93>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：金玟锡_5>----->https://baike.baidu.com/item/%E5%AE%89%E8%B4%9E%E6%A1%93
+错误url : https://baike.baidu.com/item/%E5%BE%90%E7%AB%A0%E5%8B%8B>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+show_url load 失败：金玟锡_6>----->https://baike.baidu.com/item/%E5%BE%90%E7%AB%A0%E5%8B%8B
+错误url : https://baike.baidu.com/item/%E5%86%B7%E6%9E%AA%E6%89%8B/77458>----->The read operation timed out
+movie_url load 失败：宋星翰_5>----->https://baike.baidu.com/item/%E5%86%B7%E6%9E%AA%E6%89%8B/77458
+错误url : https://baike.baidu.com/item/%E5%A8%98%E5%BF%83/60036>----->The read operation timed out
+movie_url load 失败：宋星翰_6>----->https://baike.baidu.com/item/%E5%A8%98%E5%BF%83/60036
+错误url : https://baike.baidu.com/item/%E5%AD%A9%E5%AD%90%C2%B7%E6%A0%91/3145886>----->The read operation timed out
+movie_url load 失败：吴镇宇_59>----->https://baike.baidu.com/item/%E5%AD%A9%E5%AD%90%C2%B7%E6%A0%91/3145886
+错误url : https://baike.baidu.com/item/%E8%8C%B1%E4%B8%BD%E5%8F%B6%E4%B8%8E%E6%A2%81%E5%B1%B1%E4%BC%AF/12769918>----->The read operation timed out
+movie_url load 失败：吴镇宇_65>----->https://baike.baidu.com/item/%E8%8C%B1%E4%B8%BD%E5%8F%B6%E4%B8%8E%E6%A2%81%E5%B1%B1%E4%BC%AF/12769918
