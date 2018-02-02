@@ -73,7 +73,7 @@ def get_showset(show_url, show_path, star_name):
 def recomend(star_url,star_path,movie_path,show_path,path_res):
     with open(path_res,'a', encoding='UTF-8') as f:
         for k,v in star_url.items():
-            p1 = Pool(3)
+            # p1 = Pool(3)
             star_name = k    #明星名字
             print('======='+star_name+'=======')
             relation_list = [] # 解析的明星relation列表
@@ -95,17 +95,18 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
                     f1.write(k+':'+v+'\n')
                 continue
             #解析结果：relation，movieurl，showurl
-            # relation_list=analysis.get_relations(data)
-            relation_list = p1.apply_async(analysis.get_relations,  args=(data, )).get()
-            # movie_url=analysis.get_movieurl(data)
-            movie_url = p1.apply_async(analysis.get_movieurl, args=(data, )).get()
-            # show_url=analysis.get_showurl(data)
-            show_url = p1.apply_async(analysis.get_showurl, args=(data, )).get()
+            relation_list=analysis.get_relations(data)
+            # relation_list = p1.apply_async(analysis.get_relations,  args=(data, )).get()
+            movie_url=analysis.get_movieurl(data)
+            # movie_url = p1.apply_async(analysis.get_movieurl, args=(data, )).get()
+            show_url=analysis.get_showurl(data)
+            # show_url = p1.apply_async(analysis.get_showurl, args=(data, )).get()
             # print(show_url)
-            p1.close()
-            p1.join()
+            # p1.close()
+            # p1.join()
             # relation 结果存储 {relation:[name...}
-            if len(relation_list)!=0:
+            # if len(relation_list)!=0:
+            if relation_list:
                 tmp_dict={}
                 tmp_list=[]
                 print('relation')
@@ -116,7 +117,7 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
                 full_relation.append(tmp_dict)
                 print('relation_over')
 
-            p2 = Pool(2)
+            # p2 = Pool(2)
             #load movieurl列表并解析
             # if movie_url != None:
             #     print('movie')
@@ -133,7 +134,8 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
             #         print('movie_over')
             if movie_url:
                 print('movie')
-                movie_relation_list = p2.apply_async(get_movie_relation_list, args=(movie_url,)).get()
+                movie_relation_list = get_movie_relation_list(movie_url)
+                # movie_relation_list = p2.apply_async(get_movie_relation_list, args=(movie_url,)).get()
                 if movie_relation_list and star_name in movie_relation_list:
                     movie_relation_list.remove(star_name)
                 movie_dic['movie'] = movie_relation_list
@@ -142,9 +144,11 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
                     print('movie_over')
 
             # load showurl列表并解析
-            if show_url!= None:
+            # if show_url!= None:
+            if show_url:
                 print('show')
-                show_set = p2.apply_async(get_showset,args=(show_url, show_path, star_name)).get()
+                show_set = get_showset(show_url, show_path, star_name)
+                # show_set = p2.apply_async(get_showset,args=(show_url, show_path, star_name)).get()
                 # 20171228新加的还没尝试(过滤重复名字)
                 if show_set != '' and star_name in show_set:
                     show_set.remove(star_name)
@@ -154,8 +158,8 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
                 if len(show_dic['show']) != 0 and show_dic['show'] != None:
                     full_relation.append(show_dic)
                     print('show_over')
-            p2.close()
-            p2.join()
+            # p2.close()
+            # p2.join()
             if len(full_relation)!=0:
                 full[star_name]=full_relation
                 data = js.dumps(full, ensure_ascii=False)
@@ -167,6 +171,7 @@ def recomend(star_url,star_path,movie_path,show_path,path_res):
 
 if __name__=='__main__':
     start_time = time.time()
+    p = Pool(70)
     # 创建写html的路径，以时间为单位 。D:\spider_html\2018_01_05
     star_html = str("D:\\spider_html\\") + time.strftime('%Y_%m_%d', time.localtime(time.time())) \
                 + str("\\")+str("star")+str("\\")
@@ -180,16 +185,18 @@ if __name__=='__main__':
 
     # 创建url列表
     path = '.\\oid_name_type\\20180117.txt'
-    path_res = '.\\res_container\\res21'
-    path_recommend = mk.mkdir('.\\recommend_container\\recommend13\\')
+    path_res = '.\\res_container\\res22'
+    path_recommend = mk.mkdir('.\\recommend_container\\recommend14\\')
     # {starname:url}
     full = []
     full.append(star.get_mingxingurl_dict(path))
     full.append(star.get_yinyueurl_dict(path))
 
     for i in full:
-        recomend(i, path1, path2, path3, path_res)
-
+        p.apply_async(recomend, args=(i, path1, path2, path3, path_res, ))
+        # recomend(i, path1, path2, path3, path_res)
+    p.close()
+    p.join()
     name_topic.name_oid(path, path_res, path_recommend)
 
     ad_re_relation.add_re(path_recommend)
@@ -198,7 +205,7 @@ if __name__=='__main__':
 
     end_time = time.time()
     time= (end_time-start_time)/60
-    print('0119号蜘蛛运行了：'+str(time) + '分钟')
+    print('0201号蜘蛛运行了：'+str(time) + '分钟')
     print('大概'+str(time/60)+'小时')
     with open(path_recommend+'recommend_count','a',encoding='utf-8') as f:
         f.write('0119号蜘蛛运行了：'+str(time) + '分钟')
