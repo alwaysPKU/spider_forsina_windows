@@ -184,9 +184,10 @@ if __name__=='__main__':
     path3 = mk.mkdir(star_show_html)
 
     # 创建url列表
-    path = '.\\oid_name_type\\20180117.txt'
-    path_res = '.\\res_container\\res22'
-    path_recommend = mk.mkdir('.\\recommend_container\\recommend14\\')
+    path = mk.get_data_file_path('.\\oid_name_type')
+    print(path)
+    path_res = mk.res_name_path('.\\res_container')
+    path_recommend = mk.recommed_file_path('.\\recommend_container')
     # {starname:url}
     full = []
     full.append(star.get_mingxingurl_dict(path))

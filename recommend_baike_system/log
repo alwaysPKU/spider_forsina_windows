@@ -9043,3 +9043,7 @@ movie_url load ʧ�ܣ�https://baike.baidu.com/item/%E7%8E%8B%E6%99%B6
 明星url_load失败:饭丰万理江:https://baike.baidu.com/item/%E9%A5%AD%E4%B8%B0%E4%B8%87%E7%90%86%E6%B1%9F
 错误url : https://baike.baidu.com/item/GNZ48TeamG>-----><urlopen error [WinError 10055] 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作。>
 明星url_load失败:GNZ48TeamG:https://baike.baidu.com/item/GNZ48TeamG
+错误url : https://baike.baidu.com/item/%E9%9F%B3%E4%B9%90%E8%AF%97%E4%BA%BA>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+明星url_load失败:音乐诗人:https://baike.baidu.com/item/%E9%9F%B3%E4%B9%90%E8%AF%97%E4%BA%BA
+错误url : https://baike.baidu.com/item/%E6%9D%A8%E5%B9%BF>-----><urlopen error _ssl.c:761: The handshake operation timed out>
+movie_url load ʧ�ܣ�https://baike.baidu.com/item/%E6%9D%A8%E5%B9%BF
