@@ -1,5 +1,5 @@
 import os
-import recommend_baike_system.get_analysis_url as movie
+import get_analysis_url as movie
 import json as js
 
 # filepath = "/Users/zhangwei/Desktop/sina_job/html_process/html/"

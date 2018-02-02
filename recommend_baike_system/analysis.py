@@ -1,5 +1,5 @@
 import bs4
-import recommend_baike_system.load_url as lurl
+import load_url as lurl
 import re
 from multiprocessing import Pool
 # 这里输入都是load的data

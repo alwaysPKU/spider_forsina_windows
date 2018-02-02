@@ -9047,3 +9047,5 @@ movie_url load ʧ�ܣ�https://baike.baidu.com/item/%E7%8E%8B%E6%99%B6
 明星url_load失败:音乐诗人:https://baike.baidu.com/item/%E9%9F%B3%E4%B9%90%E8%AF%97%E4%BA%BA
 错误url : https://baike.baidu.com/item/%E6%9D%A8%E5%B9%BF>-----><urlopen error _ssl.c:761: The handshake operation timed out>
 movie_url load ʧ�ܣ�https://baike.baidu.com/item/%E6%9D%A8%E5%B9%BF
+错误url : https://baike.baidu.com/item/%E7%88%B1%E6%83%85%E6%B5%B7>----->The read operation timed out
+movie_url load ʧ�ܣ�https://baike.baidu.com/item/%E7%88%B1%E6%83%85%E6%B5%B7

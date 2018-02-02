@@ -1,6 +1,6 @@
 import bs4
 import os
-import recommend_baike_system.load_url as lurl
+import load_url as lurl
 
 
 

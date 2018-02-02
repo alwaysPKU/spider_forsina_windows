@@ -1,14 +1,14 @@
-import recommend_baike_system.load_url as lurl
-import recommend_baike_system.get_stardict as star
+import load_url as lurl
+import get_stardict as star
 # import recommend_baike_system.analysis as analysis
 import json as js
-import recommend_baike_system.mkdir as mk
+import mkdir as mk
 import time
-import recommend_baike_system.name_topicid as name_topic
-import recommend_baike_system.add_re_relation as ad_re_relation
-import recommend_baike_system.count as count
+import name_topicid as name_topic
+import add_re_relation as ad_re_relation
+import count as count
 from multiprocessing import Pool
-import recommend_baike_system.analysis_not_write_html as analysis
+import analysis_not_write_html as analysis
 """
 # 从名单直接拼接url爬取所需内容
 # 直接输出对应name的推荐列表
